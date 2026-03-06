@@ -1,0 +1,13 @@
+# Here are all the configurable settings
+
+# True or False, use the custom join/leave message
+customJoinLeaveMessage: true
+
+# The custom message that will be used if "useCustomJoinLeaveMessage" is set to true
+# use {PLAYER} for the playername
+firstJoinMessage: "&6&l{PLAYER}&e joined the server for the first time!"
+joinMessage: "&6&l{PLAYER}&e joined the server!"
+leaveMessage: "&6&l{PLAYER}&e left the server!"
+
+# The maximum distance to break a block using /break
+maxBreakDistance: 5

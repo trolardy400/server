@@ -1,0 +1,67 @@
+player-only: '&4[&cItemTag&4] &cEste comando solo puede ser usado por jugadores'
+no-item-on-hand: '&4[&cItemTag&4] &cNecesitas tener un objeto en la mano'
+lack-permission: '&4[&cItemTag&4] &cNo tienes el permiso %permission%'
+lack-permission-generic: '&4[&cItemTag&4] &cNo tienes permiso para usar este comando'
+itemtag:
+  help-header: '&9&lItemTag - Ayuda'
+  flag:
+    wrong-flag: '&4[&cItemTag&4] &c¡Valor de bandera incorrecto! &4[&6pasa el cursor aquí&4]'
+    description:
+      - '&b&lActiva o desactiva banderas personalizadas en el objeto'
+      - ''
+      - '&e<flag> &bnombre de la bandera'
+      - '&e[true/false] &bvalor de la bandera, por defecto alterna'
+    params: '<flag> [true/false]'
+    placeable:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede colocarse.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede colocarse.'
+        failed-place-attempt: '&4[&cItemTag&4] &cNo puedes colocar este objeto'
+    usable:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede usarse.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede usarse (clic derecho).'
+    smelt:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede fundirse en hornos.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede fundirse en hornos.'
+    furnacefuel:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede usarse como combustible de horno.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede usarse como combustible de horno.'
+    recipeingredient:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede usarse como ingrediente de receta.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede usarse como ingrediente de receta.'
+    enchantable:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede encantarse.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede encantarse.'
+    renamable:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede usarse en yunques.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede usarse en yunques.'
+    grindable:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede desencantarse en la piedra de afilar.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede desencantarse en la piedra de afilar.'
+    equipment:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede equiparse.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede equiparse.'
+    entityfood:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede usarse como comida para animales.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede usarse como comida para animales.'
+    clickmove:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede moverse en el inventario.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede moverse en el inventario.'
+    tradeable:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede comerciarse con aldeanos.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede comerciarse con aldeanos.'
+    smithing_table:
+      feedback:
+        standard: '&9[&fItemTag&9] &aEste objeto puede usarse como ingrediente en la mesa de herrería.'
+        custom: '&9[&fItemTag&9] &aEste objeto no puede usarse como ingrediente en la mesa de herrería.'

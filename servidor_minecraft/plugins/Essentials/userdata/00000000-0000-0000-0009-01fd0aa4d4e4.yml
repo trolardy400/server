@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1759081269846
+money: '500'
+last-account-name: .GreeEon
+lastlocation:
+  world: 2349a8f8-e731-4731-8de1-2c3fd3c1a6c7
+  world-name: lobby
+  x: 386.28616
+  y: 49.0
+  z: -615.13749
+  yaw: 126.16177368164062
+  pitch: 6.44659423828125

@@ -1,0 +1,6 @@
+name: default
+permissions:
+- at.member.*
+prefixes:
+- '&7&lUSER&f':
+    priority: 1

@@ -1,0 +1,1146 @@
+[10:50:47] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.10+7-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1044-azure (amd64)
+[10:50:47] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) for Minecraft 1.21.11
+[10:50:47] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[10:50:49] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
+[10:50:56] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 6652ms.
+[10:50:56] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/Vault.jar'...
+[10:50:56] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/MoneyFromMobs.jar'...
+[10:50:56] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[10:50:56] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Remapping plugin 'plugins/EconomyShopGUI.jar'...
+[10:50:56] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/MoneyFromMobs.jar' in 296ms.
+[10:50:56] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/worldguard.jar'...
+[10:50:56] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Vault.jar' in 346ms.
+[10:50:56] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/zmenu.jar'...
+[10:50:56] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Done remapping plugin 'plugins/EconomyShopGUI.jar' in 655ms.
+[10:50:56] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Remapping plugin 'plugins/floodgateMc.jar'...
+[10:50:56] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/worldguard.jar' in 493ms.
+[10:50:56] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/TerraformGenerator.jar'...
+[10:50:57] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/zmenu.jar' in 550ms.
+[10:50:57] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/ItemEdit.jar'...
+[10:50:57] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ItemEdit.jar' in 382ms.
+[10:50:57] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/EasyCommandBlocker.jar'...
+[10:50:57] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/EasyCommandBlocker.jar' in 464ms.
+[10:50:57] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/PlayerKits2.jar'...
+[10:50:58] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TerraformGenerator.jar' in 1365ms.
+[10:50:58] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/LiveKit.jar'...
+[10:50:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/PlayerKits2.jar' in 421ms.
+[10:50:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/GravesX.jar'...
+[10:50:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/GravesX.jar' in 417ms.
+[10:50:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/ConditionalEvents.jar'...
+[10:50:58] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2670ms.
+[10:50:58] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/multiverse-core.jar'...
+[10:50:58] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/LiveKit.jar' in 598ms.
+[10:50:58] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/AdvancedTeleport.jar'...
+[10:50:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ConditionalEvents.jar' in 266ms.
+[10:50:58] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/PlaceholderAPI.jar'...
+[10:50:59] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/AdvancedTeleport.jar' in 288ms.
+[10:50:59] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/SepareWorldItems-2.0.0-DEV-104.jar'...
+[10:50:59] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SepareWorldItems-2.0.0-DEV-104.jar' in 180ms.
+[10:50:59] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/ItemTag.jar'...
+[10:50:59] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/PlaceholderAPI.jar' in 390ms.
+[10:50:59] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/jannes.jar'...
+[10:50:59] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/jannes.jar' in 71ms.
+[10:50:59] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/TAB.jar'...
+[10:50:59] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ItemTag.jar' in 251ms.
+[10:51:00] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/multiverse-core.jar' in 1839ms.
+[10:51:00] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TAB.jar' in 1436ms.
+[10:51:01] [Paper Plugin Remapper Thread - 4/INFO]: [PluginRemapper] Done remapping plugin 'plugins/floodgateMc.jar' in 4473ms.
+[10:51:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 30 plugins
+[10:51:01] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - EconomyShopGUI (6.13.2)
+[10:51:01] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (29):
+ - AdvancedTeleport (6.1.3), Chunky (1.4.36), ConditionalEvents (4.63.1), EasyCommandBlocker (1.13.1), Essentials (2.21.2-dev+2-d42347f), FastAsyncWorldEdit (2.13.1-SNAPSHOT-1118;6f99a16), Geyser-Spigot (2.8.3-SNAPSHOT), GravesX (4.9.7.3), ItemEdit (3.7.2), ItemTag (3.7.3), Jannes (2.2.0), LiveKit (1.4.8), LuckPerms (5.5.0), MiniMOTD (2.1.5), MoneyFromMobs (4.9), Multiverse-Core (5.0.2), PlaceholderAPI (2.11.6), PlayerKits2 (1.17.5), ProtocolLib (5.4.0-SNAPSHOT-748), SepareWorldItems (2.0.0-DEV-104), SkinsRestorer (15.8.0), TAB (5.2.1), TerraformGenerator (19.2.0), Vault (1.7.3-b131), ViaBackwards (5.3.2), ViaVersion (5.4.2), WorldGuard (7.0.13+82fdc65), floodgate (2.2.4-SNAPSHOT (b116-0e3163c)), zMenu (1.0.4.1)
+[10:51:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[10:51:09] [ServerMain/INFO]: Loaded 1470 recipes
+[10:51:09] [ServerMain/INFO]: Loaded 1584 advancements
+[10:51:09] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[10:51:09] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 444.2ms
+[10:51:09] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[10:51:09] [Server thread/INFO]: Loading properties
+[10:51:09] [Server thread/INFO]: This server is running Paper version 1.21.11-99-main@81b9122 (2026-01-20T19:08:30Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[10:51:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[10:51:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:51:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:51:11] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[10:51:11] [Server thread/INFO]: Default game type: SURVIVAL
+[10:51:11] [Server thread/INFO]: Generating keypair
+[10:51:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:51:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[10:51:11] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-api/4.20.0/adventure-api-4.20.0.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-key/4.20.0/adventure-key-4.20.0.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/org/jetbrains/annotations/26.0.2/annotations-26.0.2.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.4/adventure-platform-bukkit-4.3.4.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.4/adventure-platform-api-4.3.4.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.4/adventure-text-serializer-bungeecord-4.3.4.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.4/adventure-platform-facet-4.3.4.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.4/adventure-platform-viaversion-4.3.4.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.20.0/adventure-text-minimessage-4.20.0.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.20.0/adventure-text-serializer-gson-4.20.0.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.20.0/adventure-text-serializer-json-4.20.0.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/option/1.1.0/option-1.1.0.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-commons/4.20.0/adventure-text-serializer-commons-4.20.0.jar
+[10:51:12] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/server/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.20.0/adventure-text-serializer-legacy-4.20.0.jar
+[10:51:13] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
+[10:51:13] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
+[10:51:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[10:51:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[10:51:14] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[10:51:14] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[10:51:14] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion.jar' in folder 'plugins' (Is it up to date?)
+java.lang.NoClassDefFoundError: com/viaversion/viaversion/api/type/types/version/Types1_9
+	at ViaBackwards.jar//com.viaversion.viabackwards.protocol.v1_10to1_9_3.rewriter.EntityPacketRewriter1_10$2.register(EntityPacketRewriter1_10.java:83) ~[?:?]
+	at ViaVersion.jar//com.viaversion.viaversion.api.protocol.remapper.PacketHandlers.<init>(PacketHandlers.java:38) ~[?:?]
+	at ViaBackwards.jar//com.viaversion.viabackwards.protocol.v1_10to1_9_3.rewriter.EntityPacketRewriter1_10$2.<init>(EntityPacketRewriter1_10.java:68) ~[?:?]
+	at ViaBackwards.jar//com.viaversion.viabackwards.protocol.v1_10to1_9_3.rewriter.EntityPacketRewriter1_10.registerPackets(EntityPacketRewriter1_10.java:68) ~[?:?]
+	at ViaVersion.jar//com.viaversion.viaversion.api.rewriter.RewriterBase.register(RewriterBase.java:36) ~[?:?]
+	at ViaBackwards.jar//com.viaversion.viabackwards.protocol.v1_10to1_9_3.Protocol1_10To1_9_3.registerPackets(Protocol1_10To1_9_3.java:56) ~[?:?]
+	at ViaVersion.jar//com.viaversion.viaversion.api.protocol.AbstractProtocol.initialize(AbstractProtocol.java:107) ~[?:?]
+	at ViaVersion.jar//com.viaversion.viaversion.protocol.ProtocolManagerImpl.registerProtocol(ProtocolManagerImpl.java:218) ~[?:?]
+	at ViaVersion.jar//com.viaversion.viaversion.protocol.ProtocolManagerImpl.registerProtocol(ProtocolManagerImpl.java:212) ~[?:?]
+	at ViaBackwards.jar//com.viaversion.viabackwards.api.ViaBackwardsPlatform.init(ViaBackwardsPlatform.java:102) ~[?:?]
+	at ViaBackwards.jar//com.viaversion.viabackwards.BukkitPlugin.lambda$new$0(BukkitPlugin.java:38) ~[?:?]
+	at ViaVersion.jar//com.viaversion.viaversion.ViaManagerImpl.init(ViaManagerImpl.java:115) ~[?:?]
+	at ViaVersion.jar//com.viaversion.viaversion.ViaVersionPlugin.onLoad(ViaVersionPlugin.java:87) ~[?:?]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:59) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.storage.ServerPluginProviderStorage.processProvided(ServerPluginProviderStorage.java:18) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.storage.SimpleProviderStorage.enter(SimpleProviderStorage.java:39) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.entrypoint.LaunchEntryPointHandler.enter(LaunchEntryPointHandler.java:39) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.CraftServer.loadPlugins(CraftServer.java:555) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:320) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: com.viaversion.viaversion.api.type.types.version.Types1_9
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:208) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:175) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 22 more
+[10:51:14] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.0
+[10:51:14] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[10:51:14] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.13.1-SNAPSHOT-1118;6f99a16
+[10:51:16] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4f92727f]
+[10:51:16] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.13+82fdc65
+[10:51:16] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[10:51:16] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[10:51:16] [Server thread/INFO]: [floodgate] Took 567ms to boot Floodgate
+[10:51:16] [Server thread/INFO]: [AdvancedTeleport] Loading server plugin AdvancedTeleport v6.1.3
+[10:51:16] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
+[10:51:16] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
+[10:51:16] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for jar-relocator
+[10:51:16] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for jar-relocator
+[10:51:16] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm
+[10:51:16] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm
+[10:51:16] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for asm-commons
+[10:51:16] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for asm-commons
+[10:51:16] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for gson
+[10:51:16] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for gson
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-api
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-api
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-key
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-key
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-api
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-api
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for examination-string
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for examination-string
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-minimessage
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-minimessage
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-nbt
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-nbt
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-plain
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-plain
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-bukkit
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-bukkit
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson-legacy-impl
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson-legacy-impl
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-gson
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-gson
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-json
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-json
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for option
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for option
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-facet
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-facet
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-api
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-api
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-platform-viaversion
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-platform-viaversion
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-bungeecord
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-bungeecord
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for adventure-text-serializer-legacy
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for adventure-text-serializer-legacy
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-bukkit
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-bukkit
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for bstats-base
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for bstats-base
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for paperlib
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for paperlib
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Verifying checksum for ConfigurationMaster-API
+[10:51:17] [Server thread/INFO]: [AdvancedTeleport] Checksum matched for ConfigurationMaster-API
+[10:51:17] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[10:51:17] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[10:51:17] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[10:51:17] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[10:51:17] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2-dev+2-d42347f
+[10:51:17] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.4.0-SNAPSHOT-748
+[10:51:17] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.11) has not yet been tested! Proceed with caution.
+[10:51:18] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[10:51:18] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.2
+[10:51:18] [Server thread/INFO]: [MoneyFromMobs] Loading server plugin MoneyFromMobs v4.9
+[10:51:18] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.13.2
+[10:51:18] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[10:51:18] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.1.5
+[10:51:18] [Server thread/INFO]: [zMenu] Loading server plugin zMenu v1.0.4.1
+[10:51:18] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v19.2.0
+[10:51:18] [Server thread/INFO]: [EasyCommandBlocker] Loading server plugin EasyCommandBlocker v1.13.1
+[10:51:18] [Server thread/INFO]: [PlayerKits2] Loading server plugin PlayerKits2 v1.17.5
+[10:51:18] [Server thread/INFO]: [LiveKit] Loading server plugin LiveKit v1.4.8
+[10:51:18] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.36
+[10:51:18] [Server thread/INFO]: [GravesX] Loading server plugin GravesX v4.9.7.3
+[10:51:18] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.63.1
+[10:51:18] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.0.2
+[10:51:18] [Server thread/INFO]: [SepareWorldItems] Loading server plugin SepareWorldItems v2.0.0-DEV-104
+[10:51:18] [Server thread/INFO]: [ItemTag] Loading server plugin ItemTag v3.7.3
+[10:51:18] [Server thread/INFO]: [Jannes] Loading server plugin Jannes v2.2.0
+[10:51:18] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.2.1
+[10:51:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:51:18] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.0
+[10:51:19] [Server thread/INFO]:         __    
+[10:51:19] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.0
+[10:51:19] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[10:51:19] [Server thread/INFO]: 
+[10:51:19] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[10:51:19] [Server thread/INFO]: [LuckPerms] Loading storage provider... [YAML]
+[10:51:19] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[10:51:20] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[10:51:20] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1981ms)
+[10:51:20] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[10:51:20] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[10:51:20] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[10:51:20] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[10:51:20] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[10:51:20] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.13.1-SNAPSHOT-1118;6f99a16
+[10:51:20] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[10:51:20] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[10:51:20] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[10:51:20] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[10:51:21] [Server thread/WARN]: 
+**********************************************
+** This FastAsyncWorldEdit version does not fully support your version of Bukkit.
+** You can fix this by:
+** - Updating your server version (Check /version to see how many versions you are behind)
+** - Updating FAWE
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and block property-related functions.
+**********************************************
+
+[10:51:21] [Server thread/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+[10:51:21] [Server thread/WARN]: 	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.block.BlockTypesCache.<clinit>(BlockTypesCache.java:237)
+[10:51:21] [Server thread/WARN]: 	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.block.BlockTypes.init(BlockTypes.java:2281)
+[10:51:21] [Server thread/WARN]: 	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.block.BlockTypes.<clinit>(BlockTypes.java:48)
+[10:51:21] [Server thread/WARN]: 	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.block.BlockState.get(BlockState.java:156)
+[10:51:21] [Server thread/WARN]: 	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.block.BlockState.get(BlockState.java:132)
+[10:51:21] [Server thread/WARN]: 	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.registry.LegacyMapper.loadFromResource(LegacyMapper.java:124)
+[10:51:21] [Server thread/WARN]: 	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.registry.LegacyMapper.<init>(LegacyMapper.java:84)
+[10:51:21] [Server thread/WARN]: 	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.registry.LegacyMapper.getInstance(LegacyMapper.java:329)
+[10:51:21] [Server thread/WARN]: 	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.WorldEdit.loadMappings(WorldEdit.java:428)
+[10:51:21] [Server thread/WARN]: 	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.bukkit.WorldEditPlugin.setupPreWorldData(WorldEditPlugin.java:294)
+[10:51:21] [Server thread/WARN]: 	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.bukkit.WorldEditPlugin.onEnable(WorldEditPlugin.java:264)
+[10:51:21] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279)
+[10:51:21] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[10:51:21] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[10:51:21] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[10:51:21] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639)
+[10:51:21] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596)
+[10:51:21] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:321)
+[10:51:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258)
+[10:51:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388)
+[10:51:21] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[10:51:21] [Server thread/WARN]: Failed to load the built-in legacy id registry
+java.lang.ExceptionInInitializerError
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.block.BlockTypes.init(BlockTypes.java:2281) ~[?:?]
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.block.BlockTypes.<clinit>(BlockTypes.java:48) ~[?:?]
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.block.BlockState.get(BlockState.java:156) ~[?:?]
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.block.BlockState.get(BlockState.java:132) ~[?:?]
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.registry.LegacyMapper.loadFromResource(LegacyMapper.java:124) ~[?:?]
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.registry.LegacyMapper.<init>(LegacyMapper.java:84) ~[?:?]
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.registry.LegacyMapper.getInstance(LegacyMapper.java:329) ~[?:?]
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.WorldEdit.loadMappings(WorldEdit.java:428) ~[?:?]
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.bukkit.WorldEditPlugin.setupPreWorldData(WorldEditPlugin.java:294) ~[?:?]
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.bukkit.WorldEditPlugin.onEnable(WorldEditPlugin.java:264) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:321) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.block.BlockTypesCache.<clinit>(BlockTypesCache.java:278) ~[?:?]
+	... 20 more
+Caused by: java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+	at FastAsyncWorldEdit.jar//com.sk89q.worldedit.world.block.BlockTypesCache.<clinit>(BlockTypesCache.java:237) ~[?:?]
+	... 20 more
+[10:51:21] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.4.0-SNAPSHOT-748
+[10:51:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[10:51:21] [ForkJoinPool.commonPool-worker-1/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] A new release for FastAsyncWorldEdit is available: 2.15.0. You are currently on 2.13.1.
+Download from https://modrinth.com/plugin/fastasyncworldedit, https://hangar.papermc.io/IntellectualSites/FastAsyncWorldEdit or https://www.spigotmc.org/resources/13932
+[10:51:21] [ForkJoinPool.commonPool-worker-1/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 165 build(s) out of date.
+You are running build 1118, the latest version is build 1283.
+Update at https://ci.athion.net/job/FastAsyncWorldEdit
+[10:51:22] [Server thread/ERROR]: [SkinsRestorer] Your Minecraft version (1.21.11) is not supported by this version of SkinsRestorer! Is there a newer version available? https://modrinth.com/plugin/skinsrestorer If not, join our Discord server!
+[10:51:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.11.
+[10:51:22] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[10:51:22] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[10:51:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.8.0]
+[10:51:22] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[10:51:22] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v19.2.0
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.10.2) is available! Downloading update...
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 221ms
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[10:51:22] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[10:51:23] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[10:51:23] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[10:51:23] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21.11, number: 21.11
+[10:51:23] [Server thread/INFO]: [TerraformGenerator] No support for this version has been made yet!
+[10:51:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:51:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:51:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:51:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:51:23] [Server thread/INFO]: Preparing level "world"
+[10:51:23] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
+[10:51:23] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
+[10:51:23] [Server thread/WARN]: Failed to load biomes via adapter (not present). Will load via bukkit
+[10:51:23] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[10:51:23] [Server thread/INFO]: Preparing spawn area: 100%
+[10:51:23] [Server thread/INFO]: Prepared spawn area in 1 ms
+[10:51:23] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[10:51:23] [Server thread/INFO]: Prepared spawn area in 0 ms
+[10:51:23] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[10:51:23] [Server thread/INFO]: Prepared spawn area in 0 ms
+[10:51:23] [Server thread/INFO]: Done preparing level "world" (0.563s)
+[10:51:23] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[10:51:23] [Server thread/ERROR]: [ViaVersion] Server version has not been loaded yet, cannot register additional listeners
+[10:51:23] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.13+82fdc65
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[10:51:24] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[10:51:24] [Server thread/INFO]: [WorldGuard] Loading region data...
+[10:51:24] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[10:51:24] [Server thread/INFO]: [AdvancedTeleport] Enabling AdvancedTeleport v6.1.3
+[10:51:24] [Server thread/INFO]: [AdvancedTeleport] Performing server version check.
+[10:51:24] [Server thread/INFO]: [AdvancedTeleport] Detected major version: 21
+[10:51:24] [Server thread/INFO]: [AdvancedTeleport] Advanced Teleport is now enabling...
+[10:51:24] [Server thread/INFO]: [AdvancedTeleport] Setting up permissions integration with Vault.
+[10:51:24] [Server thread/INFO]: [AdvancedTeleport] LuckPerms hooked into successfully.
+[10:51:24] [Server thread/INFO]: [AdvancedTeleport] Loading MainConfig.
+[10:51:25] [Server thread/INFO]: [AdvancedTeleport] Registered the image warp_default!
+[10:51:25] [Server thread/INFO]: [AdvancedTeleport] Registered the image home_default!
+[10:51:25] [Server thread/INFO]: [AdvancedTeleport] Registered the image spawn_default!
+[10:51:25] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[10:51:25] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[10:51:25] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[10:51:25] [Server thread/WARN]: [Geyser-Spigot] "Geyser-Spigot v2.8.3-SNAPSHOT" has registered a listener for org.spigotmc.event.player.PlayerSpawnLocationEvent on method "void org.geysermc.geyser.platform.spigot.shaded.org.incendo.cloud.bukkit.CloudBukkitListener.onPlayerLogin(org.spigotmc.event.player.PlayerSpawnLocationEvent)", but the event is Deprecated. "Listening to this event causes the player to be created early. Using the player from this event will result in undefined behavior. Prefer AsyncPlayerSpawnLocationEvent."; please notify the authors [GeyserMC].
+[10:51:26] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2-dev+2-d42347f
+[10:51:26] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[10:51:26] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[10:51:26] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[10:51:26] [Server thread/INFO]: [Essentials] Loaded 43517 items from items.json.
+[10:51:26] [Server thread/INFO]: [Essentials] Using locale en
+[10:51:27] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[10:51:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[10:51:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[10:51:27] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[10:51:27] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[10:51:27] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.2
+[10:51:27] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[10:51:29] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[10:51:29] [Server thread/INFO]: [ItemEdit] Hooking into Vault
+[10:51:29] [Server thread/INFO]: [ItemEdit] Hooking into PlaceHolderAPI
+[10:51:29] [Server thread/INFO]: [ItemEdit] placeholders:
+[10:51:29] [Server thread/INFO]: [ItemEdit]   %itemedit_amount_<{itemid}>_[{slot}]_[{player}]%
+[10:51:29] [Server thread/INFO]: [ItemEdit]     shows how many itemid player has on slot
+[10:51:29] [Server thread/INFO]: [ItemEdit]     <{itemid}> for item id on serveritem
+[10:51:29] [Server thread/INFO]: [ItemEdit]     [{slot}] for the slot where the item should be counted, by default inventory
+[10:51:29] [Server thread/INFO]: [ItemEdit]       Values: inventory (include offhand), equip (include offhand), inventoryandequip (include offhand), hand, offhand, head, chest, legs, feet
+[10:51:29] [Server thread/INFO]: [ItemEdit]     [{player}] for the player, by default self
+[10:51:29] [Server thread/INFO]: [ItemEdit]     example: %itemedit_amount_{my_item_id}_{hand}%
+[10:51:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemedit [1.0]
+[10:51:29] [Server thread/INFO]: [ItemEdit] # Enabled (took 2236 ms)
+[10:51:29] [Server thread/INFO]: [MoneyFromMobs] Enabling MoneyFromMobs v4.9
+[10:51:29] [Server thread/INFO]: [MoneyFromMobs] Successfully loaded Looting multiplier of 10% per level of enchantment
+[10:51:29] [Server thread/INFO]: [MoneyFromMobs] Successfully loaded World multiplier of 5% For World: world1
+[10:51:29] [Server thread/INFO]: [MoneyFromMobs] Successfully loaded World multiplier of 10% For World: world2
+[10:51:29] [Server thread/INFO]: [MoneyFromMobs] Successfully loaded Permission multiplier of 5% For Permission Group: PermissionGroup1
+[10:51:29] [Server thread/INFO]: [MoneyFromMobs] Successfully loaded Permission multiplier of 10% For Permission Group: PermissionGroup2
+[10:51:29] [Server thread/INFO]: [MoneyFromMobs] Successfully loaded Player Death multiplier of 5% For Permission Group: PermissionGroup1
+[10:51:29] [Server thread/INFO]: [MoneyFromMobs] Successfully loaded Player Death multiplier of 10% For Permission Group: PermissionGroup2
+[10:51:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: moneyfrommobs [4.9]
+[10:51:29] [Server thread/INFO]: [MoneyFromMobs] Found PlaceholderAPI and expansion successfully registered 
+[10:51:29] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.13.2
+[10:51:29] [Server thread/ERROR]: Error occurred while enabling EconomyShopGUI v6.13.2 (Is it up to date?)
+java.lang.ExceptionInInitializerError
+	at EconomyShopGUI.jar//me.gypopo.economyshopgui.files.Lang.get(Lang.java:497) ~[?:?]
+	at EconomyShopGUI.jar//me.gypopo.economyshopgui.files.Lang.reload(Lang.java:465) ~[?:?]
+	at EconomyShopGUI.jar//me.gypopo.economyshopgui.EconomyShopGUI.onEnable(EconomyShopGUI.java:161) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "me.gypopo.economyshopgui.util.ServerInfo$Version.newerOrEqualAs(me.gypopo.economyshopgui.util.ServerInfo$Version)" because the return value of "me.gypopo.economyshopgui.util.ServerInfo.getVersion()" is null
+	at EconomyShopGUI.jar//me.gypopo.economyshopgui.util.ChatUtil.<clinit>(ChatUtil.java:18) ~[?:?]
+	... 14 more
+[10:51:29] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.13.2
+[10:51:29] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.1.5
+[10:51:30] [Server thread/INFO]: [zMenu] Enabling zMenu v1.0.4.1
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] === ENABLE START ===
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] Plugin Version V1.0.4.1
+[10:51:30] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: zmenu [1.0.4.1]
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] plugins/zMenu/inventories/menu.yml loaded successfully !
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] plugins/zMenu/inventories/Mundos.yml loaded successfully !
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] plugins/zMenu/website/inventories.yml loaded successfully !
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] Command /menu successfully register.
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] Command /mundos successfully register.
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] 
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] You can support zMenu by upgrading your account here: https://minecraft-inventory-builder.com/account-upgrade
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] zMenu’s site includes an inventory editor (under development), a marketplace (already available) is a forum (under development)
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] 
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] Use ComponentMeta
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] Loading 3 commands
+[10:51:30] [Server thread/INFO]: [zMenu v1.0.4.1] === ENABLE DONE (127ms) ===
+[10:51:30] [Server thread/INFO]: [EasyCommandBlocker] Enabling EasyCommandBlocker v1.13.1
+[10:51:30] [Server thread/ERROR]: Error occurred while enabling EasyCommandBlocker v1.13.1 (Is it up to date?)
+java.lang.IllegalArgumentException: No enum constant ecb.ajneb97.spigot.utils.ServerVersion.org.bukkit.craftbukkit
+	at java.base/java.lang.Enum.valueOf(Enum.java:293) ~[?:?]
+	at EasyCommandBlocker.jar//ecb.ajneb97.spigot.utils.ServerVersion.valueOf(ServerVersion.java:3) ~[?:?]
+	at EasyCommandBlocker.jar//ecb.ajneb97.spigot.EasyCommandBlocker.setVersion(EasyCommandBlocker.java:79) ~[?:?]
+	at EasyCommandBlocker.jar//ecb.ajneb97.spigot.EasyCommandBlocker.onEnable(EasyCommandBlocker.java:34) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[10:51:30] [Server thread/INFO]: [EasyCommandBlocker] Disabling EasyCommandBlocker v1.13.1
+[10:51:30] [Server thread/ERROR]: Error occurred while disabling EasyCommandBlocker v1.13.1
+java.lang.NullPointerException: Cannot invoke "ecb.ajneb97.spigot.utils.ServerVersion.serverVersionGreaterEqualThan(ecb.ajneb97.spigot.utils.ServerVersion, ecb.ajneb97.spigot.utils.ServerVersion)" because "serverVersion" is null
+	at EasyCommandBlocker.jar//ecb.ajneb97.spigot.utils.OtherUtils.serverIsNew(OtherUtils.java:16) ~[?:?]
+	at EasyCommandBlocker.jar//ecb.ajneb97.spigot.utils.MessagesUtils.getColoredMessage(MessagesUtils.java:11) ~[?:?]
+	at EasyCommandBlocker.jar//ecb.ajneb97.spigot.EasyCommandBlocker.onDisable(EasyCommandBlocker.java:53) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[10:51:30] [Server thread/INFO]: [PlayerKits2] Enabling PlayerKits2 v1.17.5
+[10:51:30] [Server thread/ERROR]: Error occurred while enabling PlayerKits2 v1.17.5 (Is it up to date?)
+java.lang.IllegalArgumentException: No enum constant pk.ajneb97.utils.ServerVersion.org.bukkit.craftbukkit
+	at java.base/java.lang.Enum.valueOf(Enum.java:293) ~[?:?]
+	at PlayerKits2.jar//pk.ajneb97.utils.ServerVersion.valueOf(ServerVersion.java:3) ~[?:?]
+	at PlayerKits2.jar//pk.ajneb97.PlayerKits2.setVersion(PlayerKits2.java:142) ~[?:?]
+	at PlayerKits2.jar//pk.ajneb97.PlayerKits2.onEnable(PlayerKits2.java:47) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[10:51:30] [Server thread/INFO]: [PlayerKits2] Disabling PlayerKits2 v1.17.5
+[10:51:30] [Server thread/ERROR]: Error occurred while disabling PlayerKits2 v1.17.5
+java.lang.NullPointerException: Cannot invoke "pk.ajneb97.configs.ConfigsManager.getPlayersConfigManager()" because "this.configsManager" is null
+	at PlayerKits2.jar//pk.ajneb97.PlayerKits2.onDisable(PlayerKits2.java:92) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[10:51:30] [Server thread/INFO]: [LiveKit] Enabling LiveKit v1.4.8
+[10:51:30] [Server thread/INFO]: [LiveKit] Using default permissions from config.yml for connected LiveKit clients
+[10:51:30] [Server thread/INFO]: [LiveKit] Initializing storage adapter...[SQLITE]
+[10:51:30] [Server thread/INFO]: [LiveKit] 262 regions detected for world world took 4ms
+[10:51:30] [Server thread/INFO]: [LiveKit] 321 regions detected for world world_the_end took 4ms
+[10:51:30] [Server thread/INFO]: [LiveKit] 320 regions detected for world world_nether took 3ms
+[10:51:30] [Server thread/INFO]: [LiveKit] Console access password: U2qQ4NYjlB
+[10:51:30] [LiveKit server/INFO]: [LiveKit] Server listening on 1234 for incoming connections
+[10:51:30] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.36
+[10:51:30] [Server thread/INFO]: [GravesX] Enabling GravesX v4.9.7.3
+[10:51:30] [Server thread/INFO]: [GravesX] Loading Libraries for GravesX
+[10:51:30] [pool-79-thread-1/WARN]: java.net.ConnectException: Connection refused
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library com.zaxxer.HikariCP version 6.0.0.
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/sun.nio.ch.Net.connect(Net.java:601)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/sun.nio.ch.Net.connect(Net.java:590)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:583)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.net.Socket.connect(Socket.java:751)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.net.Socket.connect(Socket.java:686)
+[10:51:30] [pool-79-thread-1/WARN]: 	at LiveKit.jar//at.livekit.livekit.LiveCloud.lambda$0(LiveCloud.java:59)
+[10:51:30] [pool-79-thread-1/WARN]: 	at LiveKit.jar//at.livekit.livekit.LiveCloud.lambda$2(LiveCloud.java:112)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[10:51:30] [pool-79-thread-1/WARN]: java.util.concurrent.CompletionException: java.lang.RuntimeException: java.net.ConnectException: Connection refused
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320)
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library com.zaxxer:HikariCP:6.0.0
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[10:51:30] [pool-79-thread-1/WARN]: Caused by: java.lang.RuntimeException: java.net.ConnectException: Connection refused
+[10:51:30] [pool-79-thread-1/WARN]: 	at LiveKit.jar//at.livekit.livekit.LiveCloud.lambda$2(LiveCloud.java:115)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[10:51:30] [pool-79-thread-1/WARN]: 	... 3 more
+[10:51:30] [pool-79-thread-1/WARN]: Caused by: java.net.ConnectException: Connection refused
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/sun.nio.ch.Net.connect(Net.java:601)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/sun.nio.ch.Net.connect(Net.java:590)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:583)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.net.Socket.connect(Socket.java:751)
+[10:51:30] [pool-79-thread-1/WARN]: 	at java.base/java.net.Socket.connect(Socket.java:686)
+[10:51:30] [pool-79-thread-1/WARN]: 	at LiveKit.jar//at.livekit.livekit.LiveCloud.lambda$0(LiveCloud.java:59)
+[10:51:30] [pool-79-thread-1/WARN]: 	at LiveKit.jar//at.livekit.livekit.LiveCloud.lambda$2(LiveCloud.java:112)
+[10:51:30] [pool-79-thread-1/WARN]: 	... 4 more
+[10:51:30] [pool-79-thread-1/WARN]: [LiveKit] LiveKit proxy not available. Only direct connections possible (Port forwarding for LiveKit port 1234 required!)
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library org.javassist:javassist:3.29.2-GA
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library io.micrometer:micrometer-core:1.5.10
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library org.hdrhistogram:HdrHistogram:2.1.12
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library org.latencyutils:LatencyUtils:2.0.3
+[10:51:30] [Server thread/INFO]: [GravesX] Loaded library com.zaxxer.HikariCP version 6.0.0 and shaded successfully.
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library org.xerial.sqlite-jdbc version 3.47.0.0.
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library org.xerial:sqlite-jdbc:3.47.0.0
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
+[10:51:30] [Server thread/INFO]: [GravesX] Loaded library org.xerial.sqlite-jdbc version 3.47.0.0 successfully.
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library com.github.oshi.oshi-core version 6.6.5.
+[10:51:30] [Server thread/INFO]: [GravesX] Loading library com.github.oshi:oshi-core:6.6.5
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna:5.15.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna-platform:5.15.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:2.0.16
+[10:51:31] [Server thread/INFO]: [GravesX] Loaded library com.github.oshi.oshi-core version 6.6.5 successfully.
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library com.h2database.h2 version 2.3.232.
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library com.h2database:h2:2.3.232
+[10:51:31] [Server thread/INFO]: [GravesX] Loaded library com.h2database.h2 version 2.3.232 and shaded successfully.
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-api version 4.17.0.
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-api version 4.17.0 and shaded successfully.
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-minimessage version 4.17.0.
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-minimessage:4.17.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[10:51:31] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-minimessage version 4.17.0 and shaded successfully.
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-serializer-gson version 4.17.0.
+[10:51:31] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.17.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-json:4.17.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:option:1.0.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library com.google.code.gson:gson:2.8.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library com.google.auto.service:auto-service-annotations:1.1.1
+[10:51:32] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-serializer-gson version 4.17.0 and shaded successfully.
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-platform-bukkit version 4.3.3.
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-bukkit:4.3.3
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-api:4.3.3
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.13.1
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.13.1
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-bungeecord:4.3.3
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-legacy:4.13.1
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-nbt:4.13.1
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.0.1
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.13.1
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson-legacy-impl:4.13.1
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-facet:4.3.3
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-viaversion:4.3.3
+[10:51:32] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-platform-bukkit version 4.3.3 and shaded successfully.
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library com.github.puregero.multilib version 1.2.4.
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib:1.2.4
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:22.0.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-common:1.2.4
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-bukkit:1.2.4
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-multipaper:1.2.4
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-common:1.2.4
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-bukkit:1.2.4
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-paper:1.2.4
+[10:51:32] [Server thread/INFO]: [GravesX] Loaded library com.github.puregero.multilib version 1.2.4 and shaded successfully.
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library org.apache.commons.commons-text version 1.12.0.
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-text:1.12.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-lang3:3.14.0
+[10:51:32] [Server thread/INFO]: [GravesX] Loaded library org.apache.commons.commons-text version 1.12.0 and shaded successfully.
+[10:51:32] [Server thread/INFO]: [GravesX] Finished Loading Libraries for GravesX.
+[10:51:32] [Server thread/INFO]: [GravesX] Integration: Hooked into Vault 1.7.3-b131. Economy is enabled.
+[10:51:32] [Server thread/INFO]: [GravesX] Integration: Hooked into Vault 1.7.3-b131's permissions provider.
+[10:51:32] [Server thread/INFO]: [GravesX] Integration: Hooked into ProtocolLib 5.4.0-SNAPSHOT-748.
+[10:51:32] [Server thread/INFO]: [GravesX] Integration: Hooked into FastAsyncWorldEdit 2.13.1-SNAPSHOT-1118;6f99a16.
+[10:51:32] [Server thread/INFO]: [GravesX] Integration: Hooked into MiniMessage.
+[10:51:32] [Server thread/INFO]: [GravesX] Integration: Hooked into Minedown Adventure.
+[10:51:32] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gravesx [4.9.7.3]
+[10:51:32] [Server thread/INFO]: [GravesX] Integration: Hooked into PlaceholderAPI 2.11.6.
+[10:51:32] [Server thread/ERROR]: Error occurred while enabling GravesX v4.9.7.3 (Is it up to date?)
+java.lang.IllegalArgumentException: Unknown gamerule: keepInventory
+	at org.bukkit.craftbukkit.CraftWorld.getGameRuleValue(CraftWorld.java:1653) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at GravesX.jar//com.ranull.graves.manager.IntegrationManager.loadCompatibilityWarnings(IntegrationManager.java:1231) ~[?:?]
+	at GravesX.jar//com.ranull.graves.manager.IntegrationManager.load(IntegrationManager.java:262) ~[?:?]
+	at GravesX.jar//com.ranull.graves.Graves.onEnable(Graves.java:87) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[10:51:32] [Server thread/INFO]: [GravesX] Disabling GravesX v4.9.7.3
+[10:51:32] [Server thread/INFO]: [GravesX] Shutting Down GravesX...
+[10:51:32] [Server thread/ERROR]: [GravesX] Failed to close Database Connection. Cause:null
+[10:51:32] [Server thread/INFO]: [GravesX] Unloading GraveManager...
+[10:51:32] [Server thread/ERROR]: [GravesX] Failed to unload GraveManager. Cause: null
+[10:51:32] [Server thread/INFO]: [GravesX] Unloading IntegrationManager...
+[10:51:32] [Server thread/INFO]: [GravesX] Unloaded IntegrationManager Successfully.
+[10:51:32] [Server thread/INFO]: [GravesX] Shutdown Completed :)
+[10:51:32] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.63.1
+[10:51:32] [Server thread/ERROR]: Error occurred while enabling ConditionalEvents v4.63.1 (Is it up to date?)
+java.lang.IllegalArgumentException: No enum constant ce.ajneb97.utils.ServerVersion.org.bukkit.craftbukkit
+	at java.base/java.lang.Enum.valueOf(Enum.java:293) ~[?:?]
+	at ConditionalEvents.jar//ce.ajneb97.utils.ServerVersion.valueOf(ServerVersion.java:3) ~[?:?]
+	at ConditionalEvents.jar//ce.ajneb97.ConditionalEvents.setVersion(ConditionalEvents.java:157) ~[?:?]
+	at ConditionalEvents.jar//ce.ajneb97.ConditionalEvents.onEnable(ConditionalEvents.java:53) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[10:51:32] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.63.1
+[10:51:32] [Server thread/ERROR]: Error occurred while disabling ConditionalEvents v4.63.1
+java.lang.NullPointerException: Cannot invoke "ce.ajneb97.managers.EventsManager.checkEvent(ce.ajneb97.model.internal.ConditionEvent)" because the return value of "ce.ajneb97.ConditionalEvents.getEventsManager()" is null
+	at ConditionalEvents.jar//ce.ajneb97.model.internal.ConditionEvent.checkEvent(ConditionEvent.java:79) ~[?:?]
+	at ConditionalEvents.jar//ce.ajneb97.ConditionalEvents.onDisable(ConditionalEvents.java:100) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:285) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugin(PaperPluginManagerImpl.java:114) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:550) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:206) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1258) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[10:51:32] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.0.2
+[10:51:33] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:lobby'...
+[10:51:33] [Server thread/INFO]: Preparing spawn area: 100%
+[10:51:33] [Server thread/INFO]: Prepared spawn area in 2 ms
+[10:51:33] [Server thread/INFO]: [WorldGuard] (lobby) TNT ignition is PERMITTED.
+[10:51:33] [Server thread/INFO]: [WorldGuard] (lobby) Lighters are PERMITTED.
+[10:51:33] [Server thread/INFO]: [WorldGuard] (lobby) Lava fire is PERMITTED.
+[10:51:33] [Server thread/INFO]: [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+[10:51:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'lobby'
+[10:51:33] [Server thread/INFO]: [TerraformGenerator] Detected world: gama_alta, commencing injection... 
+[10:51:33] [Server thread/INFO]: [TerraformGenerator] Injection failed.
+[10:51:33] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:gama_alta'...
+[10:51:33] [Server thread/INFO]: Preparing spawn area: 100%
+[10:51:33] [Server thread/INFO]: Prepared spawn area in 1 ms
+[10:51:33] [Server thread/INFO]: [TerraformGenerator] gama_alta loaded.
+[10:51:33] [Server thread/INFO]: [WorldGuard] (gama_alta) TNT ignition is PERMITTED.
+[10:51:33] [Server thread/INFO]: [WorldGuard] (gama_alta) Lighters are PERMITTED.
+[10:51:33] [Server thread/INFO]: [WorldGuard] (gama_alta) Lava fire is PERMITTED.
+[10:51:33] [Server thread/INFO]: [WorldGuard] (gama_alta) Fire spread is UNRESTRICTED.
+[10:51:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'gama_alta'
+[10:51:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: multiverse-core [5.0.2]
+[10:51:33] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[10:51:33] [Server thread/INFO]: [Multiverse-Core] Version 5.0.2 (API v5.0) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
+[10:51:33] [Server thread/INFO]: [Multiverse-Core] Help dumptruckman keep this project alive. Become a patron! https://www.patreon.com/dumptruckman
+[10:51:33] [Server thread/INFO]: [Multiverse-Core] One time donations are also appreciated: https://www.paypal.me/dumptruckman
+[10:51:33] [Server thread/INFO]: [SepareWorldItems] Enabling SepareWorldItems v2.0.0-DEV-104
+[10:51:33] [Server thread/INFO]:  
+[10:51:33] [Server thread/INFO]:  SepareWorldItems - Enabled!
+[10:51:33] [Server thread/INFO]:  
+[10:51:33] [Server thread/INFO]:  Author: Happyuky7
+[10:51:33] [Server thread/INFO]:  Version: 2.0.0-DEV-104
+[10:51:33] [Server thread/INFO]:  Github: https://github.com/Happyuky7/SepareWorldItems
+[10:51:33] [Server thread/INFO]:  
+[10:51:33] [Server thread/INFO]:  Server Version: 1.21.11-99-81b9122 (MC: 1.21.11)
+[10:51:33] [Server thread/INFO]:  Server Type: Spigot/Paper/Bukkit/Purpur/Other
+[10:51:33] [Server thread/INFO]:  
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/ar_SA.yml
+[10:51:34] [Server thread/WARN]: Nag author(s): '[Happyuky7]' of 'SepareWorldItems v2.0.0-DEV-104' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/de_DE.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/en_US.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/es_ES.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/fil_PH.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/fr_FR.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/it_IT.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/jp_JP.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/ko_KR.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/pl_PL.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/pt_BR.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/ru_RU.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/zh_CN.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] [STDOUT] File already exists: plugins/SepareWorldItems/langs/zh_TW.yml
+[10:51:34] [Server thread/INFO]: [SepareWorldItems] Backups are disabled.
+[10:51:34] [Server thread/INFO]: [ItemTag] Enabling ItemTag v3.7.3
+[10:51:34] [Server thread/INFO]: [ItemTag] Data using Spigot PersistentDataContainer
+[10:51:34] [Server thread/INFO]: [ItemTag] Hooking into PlaceholderApi
+[10:51:34] [Server thread/INFO]: [ItemTag] Hooked into PlaceHolderAPI:
+[10:51:34] [Server thread/INFO]: [ItemTag] placeholders:
+[10:51:34] [Server thread/INFO]: [ItemTag]   %itemtag_cooldown_<timeunit>_[cooldownid]%
+[10:51:34] [Server thread/INFO]: [ItemTag]     shows how much cooldown has selected cooldownid for player
+[10:51:34] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[10:51:34] [Server thread/INFO]: [ItemTag]     [cooldownid] for cooldown type, by default default
+[10:51:34] [Server thread/INFO]: [ItemTag]     example: %itemtag_cooldown_s_anid%
+[10:51:34] [Server thread/INFO]: [ItemTag]   %itemtag_handcooldown_<timeunit>%
+[10:51:34] [Server thread/INFO]: [ItemTag]     shows how much cooldown has player on the item in his hand
+[10:51:34] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[10:51:34] [Server thread/INFO]: [ItemTag]     example: %itemtag_handcooldown_s%
+[10:51:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemtag [1.0]
+[10:51:34] [Server thread/INFO]: [ItemTag] # Enabled (took 75 ms)
+[10:51:34] [Server thread/INFO]: [Jannes] Enabling Jannes v2.2.0
+[10:51:34] [Server thread/INFO]: [TAB] Enabling TAB v5.2.1
+[10:51:34] [Server thread/INFO]: [TAB] Your server version is not fully supported. This will result in:
+[10:51:34] [Server thread/INFO]: [TAB] - Compatibility with other scoreboard plugins being reduced
+[10:51:34] [Server thread/INFO]: [TAB] - Anti-override for nametags not working
+[10:51:34] [Server thread/INFO]: [TAB] - Layout feature will not work
+[10:51:34] [Server thread/INFO]: [TAB] - Prevent-spectator-effect feature will not work
+[10:51:34] [Server thread/INFO]: [TAB] - Ping spoof feature will not work
+[10:51:34] [Server thread/INFO]: [TAB] - Tablist formatting missing anti-override
+[10:51:34] [Server thread/INFO]: [TAB] - Tablist formatting not supporting relational placeholders
+[10:51:34] [Server thread/INFO]: [TAB] - Compatibility with nickname plugins changing player names will not work
+[10:51:34] [Server thread/INFO]: [TAB] - Anti-override for tablist not working
+[10:51:34] [Server thread/INFO]: [TAB] - Header/Footer may be limited or not work at all
+[10:51:34] [Server thread/INFO]: [TAB] Please use a plugin version with full support for your server version for optimal experience. This plugin version has full support for 1.8.8, 1.12.x, 1.16.5, 1.17.x, 1.18.2 and 1.19.1 - 1.21.5.
+[10:51:34] [Server thread/INFO]: [TAB] Enabled in 283ms
+[10:51:34] [Server thread/INFO]: [spark] Starting background profiler...
+[10:51:35] [Server thread/WARN]: Could not register alias sell because it contains commands that do not exist: economyshopgui:sellall $1-
+[10:51:35] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[10:51:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:51:35] [Server thread/INFO]: [Geyser-Spigot] 
+[10:51:35] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b911 (git-master-e2ae101)
+[10:51:35] [Server thread/INFO]: [Geyser-Spigot] 
+[10:51:35] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[10:51:39] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[10:51:39] [Server thread/INFO]: [Geyser-Spigot] Done (3.977s)! Run /geyser help for help!
+[10:51:39] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] There's a new Geyser update available to support Bedrock version 26.3. Download it here: https://geysermc.org/download
+[10:51:39] [Server thread/INFO]: Running delayed init tasks
+[10:51:39] [Craft Scheduler Thread - 1 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[10:51:39] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[10:51:39] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[10:51:39] [Craft Scheduler Thread - 6 - AdvancedTeleport/INFO]: [AdvancedTeleport] Preparing random teleportation locations. If your server performance or memory suffers, please set `use-rapid-response` to false in the config.yml file.
+[10:51:39] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[10:51:39] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] Checking for Updates ... 
+[10:51:39] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[10:51:39] [Craft Scheduler Thread - 10 - ItemTag/INFO]: [ItemTag] NEW UPDATE (3.7.3 -> 3.7.5) available at https://modrinth.com/plugin/itemtag/version/latest
+[10:51:39] [Craft Scheduler Thread - 3 - ItemEdit/INFO]: [ItemEdit] NEW UPDATE (3.7.2 -> 3.7.8) available at https://modrinth.com/plugin/itemedit/version/latest
+[10:51:39] [Craft Scheduler Thread - 7 - Vault/INFO]: [Vault] No new version available
+[10:51:39] [Craft Scheduler Thread - 11 - Jannes/INFO]: [Jannes] There is no new update available.
+[10:51:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[10:51:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[10:51:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.2]
+[10:51:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[10:51:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[10:51:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: world [1.2.3]
+[10:51:40] [Server thread/INFO]: 6 placeholder hook(s) registered! 1 placeholder hook(s) have an update available.
+[10:51:40] [Craft Scheduler Thread - 6 - AdvancedTeleport/INFO]: [AdvancedTeleport] A new version is available!
+[10:51:40] [Craft Scheduler Thread - 6 - AdvancedTeleport/INFO]: [AdvancedTeleport] Current version you're using: 6.1.3
+[10:51:40] [Craft Scheduler Thread - 6 - AdvancedTeleport/INFO]: [AdvancedTeleport] Latest version available: 6.2.0
+[10:51:40] [Craft Scheduler Thread - 6 - AdvancedTeleport/INFO]: [AdvancedTeleport] Download link: https://www.spigotmc.org/resources/advancedteleport.64139/
+[10:51:40] [Server thread/WARN]: [Geyser-Spigot] You are using an outdated version of ViaVersion; please download the newest version from https://ci.viaversion.com/job/ViaVersion/
+[10:51:40] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.12.2) is available at:
+[10:51:40] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[10:51:40] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.7.2, you're on: 5.4.2
+[10:51:40] [Server thread/INFO]: Done (53.055s)! For help, type "help"
+[10:51:40] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] You're 104 EssentialsX dev build(s) out of date!
+[10:51:40] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[10:51:40] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 27 build(s) behind ***
+[10:51:40] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[10:51:40] [Craft Scheduler Thread - 5 - MiniMOTD/INFO]: [MiniMOTD] There is an update available for MiniMOTD!
+[10:51:40] [Craft Scheduler Thread - 5 - MiniMOTD/INFO]: [MiniMOTD] This server is running version v2.1.5, which is 6 versions outdated.
+[10:51:40] [Craft Scheduler Thread - 5 - MiniMOTD/INFO]: [MiniMOTD] Download the latest version, v2.2.2 from GitHub at the link below:
+[10:51:40] [Craft Scheduler Thread - 5 - MiniMOTD/INFO]: [MiniMOTD] https://github.com/jpenilla/MiniMOTD/releases/tag/v2.2.2
+[10:51:40] [Craft Scheduler Thread - 1 - zMenu/INFO]: [zMenu v1.0.4.1] New update available. Your version: 1.0.4.1, latest version: 1.1.1.0
+[10:51:40] [Craft Scheduler Thread - 1 - zMenu/INFO]: [zMenu v1.0.4.1] Download plugin here: https://groupez.dev/resources/253
+[10:51:40] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.4.0 (Running 5.4.0-SNAPSHOT-748). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[10:51:45] [Paper Common Worker #0/ERROR]: [ChunkTaskScheduler] Chunk system error at chunk (176,-81), holder: NewChunkHolder{world=gama_alta, chunkX=176, chunkZ=-81, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:biomes}, currentGenStatus=minecraft:biomes, requestedGenStatus=minecraft:full, generationTask=ChunkProgressionTask{class: ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask, for world: gama_alta, chunk: (176,-81), hashcode: 1312641308, priority: COMPLETING, status: minecraft:noise, scheduled: true}, generationTaskStatus=minecraft:noise, priority=NORMAL, priorityLocked=false, neighbourRequestedPriority=null, effective_priority=NORMAL, oldTicketLevel=33, currentTicketLevel=33, totalNeighboursUsingThisChunk=1, fullNeighbourChunksLoadedBitset=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}, exception:
+java.lang.Throwable: java.util.concurrent.CompletionException: java.lang.ExceptionInInitializerError
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkTaskScheduler.unrecoverableChunkSystemFailure(ChunkTaskScheduler.java:304) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.NewChunkHolder.lambda$setGenerationTask$5(NewChunkHolder.java:1594) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkProgressionTask.complete0(ChunkProgressionTask.java:91) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkProgressionTask.complete(ChunkProgressionTask.java:74) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask.run(ChunkUpgradeGenericStatusTask.java:142) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$OrderedStreamGroup$Queue.lambda$createTask$0(BalancedPrioritisedThreadPool.java:439) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.queue.PrioritisedTaskQueue$PrioritisedQueuedTask.execute(PrioritisedTaskQueue.java:345) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$OrderedStreamGroup.executeTask(BalancedPrioritisedThreadPool.java:319) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$WorkerThread.pollTasks(BalancedPrioritisedThreadPool.java:602) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.mainLoop(PrioritisedQueueExecutorThread.java:57) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.doRun(PrioritisedQueueExecutorThread.java:122) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:49) ~[concurrentutil-0.0.8.jar:?]
+Caused by: java.util.concurrent.CompletionException: java.lang.ExceptionInInitializerError
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.asyncSupplyStage(CompletableFuture.java:1782) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.supplyAsync(CompletableFuture.java:2005) ~[?:?]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.fillFromNoise(CustomChunkGenerator.java:267) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateNoise(ChunkStatusTasks.java:93) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:66) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask.run(ChunkUpgradeGenericStatusTask.java:97) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	... 7 more
+Caused by: java.lang.ExceptionInInitializerError
+	at TerraformGenerator.jar//org.terraform.main.TerraformGeneratorPlugin.lambda$onEnable$0(TerraformGeneratorPlugin.java:109) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.calculateAndInsert(ConcurrentLRUCache.java:117) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.slowPathGet(ConcurrentLRUCache.java:79) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.get(ConcurrentLRUCache.java:92) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.coregen.bukkit.TerraformGenerator.getCache(TerraformGenerator.java:51) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.coregen.bukkit.TerraformGenerator.generateNoise(TerraformGenerator.java:127) ~[?:?]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.lambda$fillFromNoise$0(CustomChunkGenerator.java:262) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.lambda$fillFromNoise$1(CustomChunkGenerator.java:267) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 13 more
+Caused by: java.lang.NullPointerException: Cannot invoke "org.terraform.coregen.NMSInjectorAbstract.getMinY()" because "org.terraform.main.TerraformGeneratorPlugin.injector" is null
+	at TerraformGenerator.jar//org.terraform.coregen.ChunkCache.<clinit>(ChunkCache.java:18) ~[?:?]
+	... 22 more
+[10:51:45] [Paper Common Worker #0/ERROR]: [ChunkTaskScheduler] Chunk system error at chunk (-159,118), holder: NewChunkHolder{world=gama_alta, chunkX=-159, chunkZ=118, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:biomes}, currentGenStatus=minecraft:biomes, requestedGenStatus=minecraft:full, generationTask=ChunkProgressionTask{class: ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask, for world: gama_alta, chunk: (-159,118), hashcode: 308566816, priority: COMPLETING, status: minecraft:noise, scheduled: true}, generationTaskStatus=minecraft:noise, priority=NORMAL, priorityLocked=false, neighbourRequestedPriority=null, effective_priority=NORMAL, oldTicketLevel=33, currentTicketLevel=33, totalNeighboursUsingThisChunk=1, fullNeighbourChunksLoadedBitset=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}, exception:
+java.lang.Throwable: java.util.concurrent.CompletionException: java.lang.NoClassDefFoundError: Could not initialize class org.terraform.coregen.ChunkCache
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkTaskScheduler.unrecoverableChunkSystemFailure(ChunkTaskScheduler.java:304) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.NewChunkHolder.lambda$setGenerationTask$5(NewChunkHolder.java:1594) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkProgressionTask.complete0(ChunkProgressionTask.java:91) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkProgressionTask.complete(ChunkProgressionTask.java:74) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask.run(ChunkUpgradeGenericStatusTask.java:142) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$OrderedStreamGroup$Queue.lambda$createTask$0(BalancedPrioritisedThreadPool.java:439) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.queue.PrioritisedTaskQueue$PrioritisedQueuedTask.execute(PrioritisedTaskQueue.java:345) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$OrderedStreamGroup.executeTask(BalancedPrioritisedThreadPool.java:319) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$WorkerThread.pollTasks(BalancedPrioritisedThreadPool.java:602) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.mainLoop(PrioritisedQueueExecutorThread.java:57) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.doRun(PrioritisedQueueExecutorThread.java:122) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:49) ~[concurrentutil-0.0.8.jar:?]
+Caused by: java.util.concurrent.CompletionException: java.lang.NoClassDefFoundError: Could not initialize class org.terraform.coregen.ChunkCache
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.asyncSupplyStage(CompletableFuture.java:1782) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.supplyAsync(CompletableFuture.java:2005) ~[?:?]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.fillFromNoise(CustomChunkGenerator.java:267) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateNoise(ChunkStatusTasks.java:93) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:66) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask.run(ChunkUpgradeGenericStatusTask.java:97) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	... 7 more
+Caused by: java.lang.NoClassDefFoundError: Could not initialize class org.terraform.coregen.ChunkCache
+	at TerraformGenerator.jar//org.terraform.main.TerraformGeneratorPlugin.lambda$onEnable$0(TerraformGeneratorPlugin.java:109) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.calculateAndInsert(ConcurrentLRUCache.java:117) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.slowPathGet(ConcurrentLRUCache.java:79) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.get(ConcurrentLRUCache.java:92) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.coregen.bukkit.TerraformGenerator.getCache(TerraformGenerator.java:51) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.coregen.bukkit.TerraformGenerator.generateNoise(TerraformGenerator.java:127) ~[?:?]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.lambda$fillFromNoise$0(CustomChunkGenerator.java:262) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.lambda$fillFromNoise$1(CustomChunkGenerator.java:267) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 13 more
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NullPointerException [in thread "Paper Common Worker #0"]
+	at TerraformGenerator.jar//org.terraform.coregen.ChunkCache.<clinit>(ChunkCache.java:18) ~[?:?]
+	... 22 more
+[10:51:45] [Paper Common Worker #0/ERROR]: [ChunkTaskScheduler] Chunk system error at chunk (90,-156), holder: NewChunkHolder{world=gama_alta, chunkX=90, chunkZ=-156, entityChunkFromDisk=false, lastChunkCompletion={chunk_class=net.minecraft.world.level.chunk.ProtoChunk,status=minecraft:biomes}, currentGenStatus=minecraft:biomes, requestedGenStatus=minecraft:full, generationTask=ChunkProgressionTask{class: ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask, for world: gama_alta, chunk: (90,-156), hashcode: 381747506, priority: COMPLETING, status: minecraft:noise, scheduled: true}, generationTaskStatus=minecraft:noise, priority=NORMAL, priorityLocked=false, neighbourRequestedPriority=null, effective_priority=NORMAL, oldTicketLevel=33, currentTicketLevel=33, totalNeighboursUsingThisChunk=1, fullNeighbourChunksLoadedBitset=0, currentChunkStatus=INACCESSIBLE, pendingChunkStatus=INACCESSIBLE, is_unload_safe=ticket_level, killed=false}, exception:
+java.lang.Throwable: java.util.concurrent.CompletionException: java.lang.NoClassDefFoundError: Could not initialize class org.terraform.coregen.ChunkCache
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkTaskScheduler.unrecoverableChunkSystemFailure(ChunkTaskScheduler.java:304) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.NewChunkHolder.lambda$setGenerationTask$5(NewChunkHolder.java:1594) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkProgressionTask.complete0(ChunkProgressionTask.java:91) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkProgressionTask.complete(ChunkProgressionTask.java:74) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask.run(ChunkUpgradeGenericStatusTask.java:142) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$OrderedStreamGroup$Queue.lambda$createTask$0(BalancedPrioritisedThreadPool.java:439) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.queue.PrioritisedTaskQueue$PrioritisedQueuedTask.execute(PrioritisedTaskQueue.java:345) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$OrderedStreamGroup.executeTask(BalancedPrioritisedThreadPool.java:319) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$WorkerThread.pollTasks(BalancedPrioritisedThreadPool.java:602) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.mainLoop(PrioritisedQueueExecutorThread.java:57) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.doRun(PrioritisedQueueExecutorThread.java:122) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:49) ~[concurrentutil-0.0.8.jar:?]
+Caused by: java.util.concurrent.CompletionException: java.lang.NoClassDefFoundError: Could not initialize class org.terraform.coregen.ChunkCache
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.asyncSupplyStage(CompletableFuture.java:1782) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.supplyAsync(CompletableFuture.java:2005) ~[?:?]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.fillFromNoise(CustomChunkGenerator.java:267) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateNoise(ChunkStatusTasks.java:93) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:66) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask.run(ChunkUpgradeGenericStatusTask.java:97) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	... 7 more
+Caused by: java.lang.NoClassDefFoundError: Could not initialize class org.terraform.coregen.ChunkCache
+	at TerraformGenerator.jar//org.terraform.main.TerraformGeneratorPlugin.lambda$onEnable$0(TerraformGeneratorPlugin.java:109) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.calculateAndInsert(ConcurrentLRUCache.java:117) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.slowPathGet(ConcurrentLRUCache.java:79) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.get(ConcurrentLRUCache.java:92) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.coregen.bukkit.TerraformGenerator.getCache(TerraformGenerator.java:51) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.coregen.bukkit.TerraformGenerator.generateNoise(TerraformGenerator.java:127) ~[?:?]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.lambda$fillFromNoise$0(CustomChunkGenerator.java:262) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.lambda$fillFromNoise$1(CustomChunkGenerator.java:267) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 13 more
+Caused by: java.lang.ExceptionInInitializerError: Exception java.lang.NullPointerException [in thread "Paper Common Worker #0"]
+	at TerraformGenerator.jar//org.terraform.coregen.ChunkCache.<clinit>(ChunkCache.java:18) ~[?:?]
+	... 22 more
+[10:51:45] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.RuntimeException: Chunk system crash propagated from unrecoverableChunkSystemFailure
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkTaskScheduler.lambda$unrecoverableChunkSystemFailure$0(ChunkTaskScheduler.java:327) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.concurrentutil.executor.queue.PrioritisedTaskQueue$PrioritisedQueuedTask.execute(PrioritisedTaskQueue.java:345) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.queue.PrioritisedTaskQueue.executeTask(PrioritisedTaskQueue.java:126) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkTaskScheduler.executeAllRecentlyQueuedMainThreadTasks(ChunkTaskScheduler.java:349) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runAllTasksAtTickStart(MinecraftServer.java:1200) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.processPacketsAndTick(MinecraftServer.java:1671) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1340) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: net.minecraft.ReportedException: Chunk system error
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkTaskScheduler.unrecoverableChunkSystemFailure(ChunkTaskScheduler.java:310) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.NewChunkHolder.lambda$setGenerationTask$5(NewChunkHolder.java:1594) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkProgressionTask.complete0(ChunkProgressionTask.java:91) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkProgressionTask.complete(ChunkProgressionTask.java:74) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask.run(ChunkUpgradeGenericStatusTask.java:142) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$OrderedStreamGroup$Queue.lambda$createTask$0(BalancedPrioritisedThreadPool.java:439) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.queue.PrioritisedTaskQueue$PrioritisedQueuedTask.execute(PrioritisedTaskQueue.java:345) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$OrderedStreamGroup.executeTask(BalancedPrioritisedThreadPool.java:319) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.BalancedPrioritisedThreadPool$WorkerThread.pollTasks(BalancedPrioritisedThreadPool.java:602) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.mainLoop(PrioritisedQueueExecutorThread.java:57) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.doRun(PrioritisedQueueExecutorThread.java:122) ~[concurrentutil-0.0.8.jar:?]
+	at ca.spottedleaf.concurrentutil.executor.thread.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:49) ~[concurrentutil-0.0.8.jar:?]
+Caused by: java.util.concurrent.CompletionException: java.lang.ExceptionInInitializerError
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.asyncSupplyStage(CompletableFuture.java:1782) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.supplyAsync(CompletableFuture.java:2005) ~[?:?]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.fillFromNoise(CustomChunkGenerator.java:267) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateNoise(ChunkStatusTasks.java:93) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:66) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask.run(ChunkUpgradeGenericStatusTask.java:97) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	... 7 more
+Caused by: java.lang.ExceptionInInitializerError
+	at TerraformGenerator.jar//org.terraform.main.TerraformGeneratorPlugin.lambda$onEnable$0(TerraformGeneratorPlugin.java:109) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.calculateAndInsert(ConcurrentLRUCache.java:117) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.slowPathGet(ConcurrentLRUCache.java:79) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.utils.datastructs.ConcurrentLRUCache.get(ConcurrentLRUCache.java:92) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.coregen.bukkit.TerraformGenerator.getCache(TerraformGenerator.java:51) ~[?:?]
+	at TerraformGenerator.jar//org.terraform.coregen.bukkit.TerraformGenerator.generateNoise(TerraformGenerator.java:127) ~[?:?]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.lambda$fillFromNoise$0(CustomChunkGenerator.java:262) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at org.bukkit.craftbukkit.generator.CustomChunkGenerator.lambda$fillFromNoise$1(CustomChunkGenerator.java:267) ~[paper-1.21.11.jar:1.21.11-99-81b9122]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 13 more
+Caused by: java.lang.NullPointerException: Cannot invoke "org.terraform.coregen.NMSInjectorAbstract.getMinY()" because "org.terraform.main.TerraformGeneratorPlugin.injector" is null
+	at TerraformGenerator.jar//org.terraform.coregen.ChunkCache.<clinit>(ChunkCache.java:18) ~[?:?]
+	... 22 more
+[10:51:46] [Server thread/ERROR]: This crash report has been saved to: /workspaces/server/servidor_minecraft/crash-reports/crash-2026-03-06_10.51.46-server.txt
+[10:51:46] [Server thread/INFO]: Stopping server
+[10:51:46] [Server thread/INFO]: [TAB] Disabling TAB v5.2.1
+[10:51:46] [Server thread/INFO]: [TAB] Disabled in 0ms
+[10:51:46] [Server thread/INFO]: [Jannes] Disabling Jannes v2.2.0
+[10:51:46] [Server thread/INFO]: [ItemTag] Disabling ItemTag v3.7.3
+[10:51:46] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion itemtag
+[10:51:46] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ItemTag was disabled.
+[10:51:46] [Server thread/INFO]: [SepareWorldItems] Disabling SepareWorldItems v2.0.0-DEV-104
+[10:51:46] [Server thread/INFO]:  
+[10:51:46] [Server thread/INFO]:  SepareWorldItems - Disabled
+[10:51:46] [Server thread/INFO]:  
+[10:51:46] [Server thread/INFO]:  Author: Happyuky7
+[10:51:46] [Server thread/INFO]:  Version: 2.0.0-DEV-104
+[10:51:46] [Server thread/INFO]:  Github: https://github.com/Happyuky7/SepareWorldItems
+[10:51:46] [Server thread/INFO]:  
+[10:51:46] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.0.2
+[10:51:46] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.36
+[10:51:46] [Server thread/INFO]: [LiveKit] Disabling LiveKit v1.4.8
+[10:51:47] [LiveKit server/INFO]: [LiveKit] Server shutdown
+[10:51:47] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v19.2.0
+[10:51:47] [Server thread/INFO]: [zMenu] Disabling zMenu v1.0.4.1
+[10:51:47] [Server thread/INFO]: [zMenu v1.0.4.1] === DISABLE START ===
+[10:51:47] [Server thread/INFO]: [zMenu v1.0.4.1] === DISABLE DONE (5ms) ===
+[10:51:47] [Server thread/INFO]: [MiniMOTD] Disabling MiniMOTD v2.1.5
+[10:51:47] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
+[10:51:47] [Server thread/INFO]: [MoneyFromMobs] Disabling MoneyFromMobs v4.9
+[10:51:47] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.2
+[10:51:47] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion itemedit
+[10:51:47] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ItemEdit was disabled.
+[10:51:47] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[10:51:47] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.4.0-SNAPSHOT-748
+[10:51:47] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2-dev+2-d42347f
+[10:51:47] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[10:51:47] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
+[10:51:47] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[10:51:47] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[10:51:47] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[10:51:47] [Server thread/INFO]: [AdvancedTeleport] Disabling AdvancedTeleport v6.1.3
+[10:51:47] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[10:51:47] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13+82fdc65
+[10:51:47] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[10:51:47] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.13.1-SNAPSHOT-1118;6f99a16
+[10:51:47] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[10:51:47] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[10:51:47] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.0
+[10:51:47] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[10:51:47] [Server thread/INFO]: [LuckPerms] Closing storage...
+[10:51:47] [Server thread/INFO]: [LuckPerms] Goodbye!
+[10:51:47] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[10:51:47] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[10:51:47] [Server thread/INFO]: Saving players
+[10:51:47] [WebSocketConnectReadThread-186/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[10:51:47] [Server thread/INFO]: Saving worlds
+[10:51:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:51:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[10:51:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[10:51:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Saved 1323 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 2.89s
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[10:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Saved 1585 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.68s
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[10:51:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[10:51:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[10:51:51] [Server thread/INFO]: [ChunkHolderManager] Saved 1587 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.46s
+[10:51:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[10:51:51] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[10:51:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[lobby]'/minecraft:lobby
+[10:51:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'lobby'
+[10:51:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'lobby'
+[10:51:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'lobby'
+[10:51:52] [Server thread/INFO]: [ChunkHolderManager] Saved 1586 block chunks, 0 entity chunks, 0 poi chunks in world 'lobby' in 0.61s
+[10:51:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'lobby'
+[10:51:52] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'lobby'
+[10:51:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[gama_alta]'/minecraft:gama_alta
+[10:51:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'gama_alta'
+[10:51:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'gama_alta'
+[10:51:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'gama_alta'
+[10:51:52] [Server thread/INFO]: [ChunkHolderManager] Saved 1083 block chunks, 0 entity chunks, 0 poi chunks in world 'gama_alta' in 0.40s
+[10:51:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'gama_alta'
+[10:51:52] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'gama_alta'
+[10:51:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:51:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:51:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:51:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (lobby): All chunks are saved
+[10:51:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (gama_alta): All chunks are saved
+[10:51:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:51:52] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[10:51:52] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[10:51:52] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[10:51:52] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
