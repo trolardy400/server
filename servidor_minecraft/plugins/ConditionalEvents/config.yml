@@ -1,0 +1,74 @@
+Config:
+  update_notification: true
+  data_save_time: 5
+  debug_actions: true
+  experimental:
+    variable_replacement: false
+  register_commands:
+  - add
+  to_condition_groups:
+    group1:
+    - '%player_has_permission_conditionalevents.somepermission% == yes'
+
+Messages:
+  prefix: '&4[&bConditionalEvents&4] '
+  commandReload: '&aConfiguración recargada.'
+  commandNoPermissions: '&cNo tienes permisos para usar este comando.'
+  commandResetError: '&cUsa &7/ce reset <jugador> <evento>/all'
+  eventDoesNotExists: '&cEse evento no existe en la configuración.'
+  eventDataReset: '&aDatos reiniciados para el jugador &e%player% &aen el evento &e%event%&a!'
+  eventDataResetAll: '&aTodos los datos reiniciados para el jugador &e%player%&a!'
+  eventDataResetForAllPlayers: '&aDatos reiniciados para &etodos los jugadores &aen el evento &e%event%&a!'
+  eventDataResetAllForAllPlayers: '&aTodos los datos de jugadores reiniciados.'
+  eventEnableError: '&cUsa &7/ce enable <evento>'
+  eventDisableError: '&cUsa &7/ce disable <evento>'
+  eventEnabled: '&aEvento &7%event% &aactivado.'
+  eventDisabled: '&aEvento &7%event% &adesactivado.'
+  commandDebugError: '&cUsa &7/ce debug <evento>'
+  debugEnabled: '&aDepuración activada para el evento &7%event%&a!'
+  debugDisabled: '&aDepuración desactivada para el evento &7%event%&a!'
+  debugEnabledPlayer: '&aDepuración activada para el evento &7%event% &ay el jugador &7%player%&a!'
+  debugDisabledPlayer: '&aDepuración desactivada para el evento &7%event% &ay el jugador &7%player%&a!'
+  onlyPlayerCommand: '&cEste comando solo puede ser usado por un jugador.'
+  playerDoesNotExists: '&cEse jugador no tiene ningún dato.'
+  seconds: s
+  minutes: m
+  hours: h
+  days: d
+  placeholderAPICooldownReady: ¡Listo!
+  placeholderAPICooldownNameError: ¡No hay evento con ese nombre!
+  commandCallError: '&cUsa &7/ce call <evento> (opcional)%variable1%=<valor1>;%variableN%=<valorN> (opcional)player:<jugador>'
+  commandCallInvalidEvent: '&cSolo puedes ejecutar un evento de tipo CALL.'
+  commandCallCorrect: '&aEvento &7%event% &aejecutado correctamente.'
+  commandCallCorrectPlayer: '&aEvento &7%event% &aejecutado correctamente para el jugador &7%player%&a.'
+  commandCallFailed: '&cNo se pudo ejecutar el evento &7%event%&c. ¿Quizás un error de formato?'
+  playerNotOnline: '&cEse jugador no está en línea.'
+  commandItemError: '&cUsa &7/ce item <save/remove> <nombre>'
+  savedItemDoesNotExists: '&cEse objeto guardado no existe.'
+  savedItemRemoved: '&aObjeto &7%name% &aeliminado.'
+  mustHaveItemInHand: '&cDebes tener un objeto en la mano.'
+  savedItemAlreadyExists: '&cYa existe un objeto guardado con ese nombre.'
+  savedItemAdded: '&aObjeto &7%name% &aguardado.'
+  commandInterruptError: '&cUsa &7/ce interrupt <evento> (opcional)<jugador>'
+  commandInterruptCorrect: '&aLas acciones del evento &7%event% &ainterrumpidas.'
+  commandInterruptCorrectPlayer: '&aLas acciones del evento &7%event% &ainterrumpidas para el jugador &7%player%&a.'
+
+Events:
+  event1:
+    type: player_command
+    conditions:
+    - '%main_command% equalsIgnoreCase /add'
+    actions:
+      default:
+      - 'cancel_event: true'
+      - 'console_command: lp user %player% parent set %arg_1%'
+  example:
+    type: player_respawn
+    actions:
+      default:
+      - "teleport: lobby;406.5;50;-636.51;90;0"
+  example1:
+  type: player_join
+  actions:
+    default:
+    - 'console_command: eco give %player% 5000'

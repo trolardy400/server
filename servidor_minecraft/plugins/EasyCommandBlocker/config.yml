@@ -1,0 +1,39 @@
+tab:
+  default:
+    priority: 0
+    commands: 
+      - "/spawn"
+  vip:
+    priority: 1
+    extends: default
+    commands:
+      - "/home"
+blocked_command_default_actions:
+  - "message: &8[&x&0&C&8&3&0&0T&x&0&D&9&1&0&0r&x&0&F&9&F&0&0o&x&1&0&A&C&0&0l&x&1&1&B&A&0&0a&x&3&1&8&D&2&Er&x&5&1&5&F&5&Cd&x&7&0&3&2&8&9y&x&9&0&0&4&B&7C&x&8&4&0&3&A&8r&x&7&9&0&2&9&Aa&x&6&D&0&1&8&Bf&x&6&1&0&0&7&Ct&8] &cno tienes permisos para ejecutar ese comando "
+use_commands_as_whitelist: false
+is_network: false
+update_notify: true
+commands:
+  - "/?"
+  - "/bukkit:?"
+  - "/bukkit:ver"
+  - "/bukkit:version"
+  - "/bukkit:pl"
+  - "/bukkit:plugins"
+  - "/bukkit:help"
+  - "/bukkit:about"
+  - "/ver"
+  - "/version"
+  - "/plugins"
+  - "/pl"
+  - "/minecraft:me"
+  - "/about"
+  - "/icanhasbukkit"
+custom_commands_actions:
+  example1:
+    commands:
+      - "/ver"
+      - "/version"
+      - "/about"
+    actions:
+      - "console_command: kick %player% You can't see the version of the server!"

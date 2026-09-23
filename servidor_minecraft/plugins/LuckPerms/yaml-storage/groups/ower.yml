@@ -1,0 +1,8 @@
+name: ower
+permissions:
+- '*'
+parents:
+- default
+prefixes:
+- '&x&8&A&0&0&0&0&lOWNER&x&F&F&0&0&0&0':
+    priority: 2
