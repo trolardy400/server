@@ -1,0 +1,59 @@
+# Ember Coins — Español
+# Traducido por el desarrollador. Se agradecen las correcciones:
+# https://discord.gg/survivalnetwork
+
+general:
+  no-permission: "<#ef5350>No puedes hacer eso."
+  player-only: "<#ef5350>Solo un jugador puede hacer eso."
+  reloaded: "<#66bb6a>Recargado."
+  not-a-number: "<#ef5350><white>%input%</white> no es un número."
+  not-an-amount: "<#ef5350><white>%input%</white> no es una cantidad."
+  no-account: "<#ef5350>No hay cuenta para <white>%player%</white>."
+  no-account-hint: "<#90a4ae>Debe haber entrado al menos una vez."
+  no-currency: "<#ef5350>No existe la moneda <white>%currency%</white>."
+
+balance:
+  header: "<#ffca28>%player% <#90a4ae>tiene:"
+  line: "  <#90a4ae>- <white>%amount%"
+  usage: "Uso: /balance <jugador>"
+
+pay:
+  usage: "<#90a4ae>/pay &lt;jugador&gt; &lt;cantidad&gt; [moneda]"
+  self: "<#ef5350>No puedes pagarte a ti mismo."
+  not-payable: "<#ef5350>%currency% no se puede transferir."
+  insufficient: "<#ef5350>No tienes %amount%."
+  sent: "<#66bb6a>Has enviado <white>%amount%</white> a <white>%player%</white>."
+  received: "<#66bb6a>%player% te ha enviado <white>%amount%</white>."
+
+baltop:
+  empty: "<#90a4ae>Todavía nadie tiene %currency%."
+  header: "<#ffca28>Más ricos en %currency%:"
+  line: "  <#90a4ae>%place%. <white>%player% <#90a4ae>- <white>%amount%"
+
+eco:
+  usage: "<#90a4ae>/eco &lt;give|take|set&gt; &lt;jugador&gt; &lt;cantidad&gt; [moneda]"
+  not-enough-to-take: "<#ef5350>No tiene suficiente. No se ha quitado nada."
+  result: "<#66bb6a>%player% ahora tiene <white>%amount%</white>."
+
+coin:
+  disabled: "<#ef5350>Las monedas físicas están desactivadas en este servidor."
+  withdraw-usage: "<#90a4ae>/coins withdraw &lt;cantidad&gt; [moneda]"
+  no-room: "<#ef5350>No tienes espacio para la moneda."
+  withdrawn: "<#66bb6a>Has retirado <white>%amount%</white>."
+  deposited: "<#66bb6a>Has depositado <white>%amount%</white>."
+  picked-up: "<#ffca28>+ %amount%"
+  drop-usage: "<#90a4ae>/coins drop &lt;cantidad&gt; [moneda]"
+  dropped: "<#90a4ae>Has soltado una moneda de <white>%amount%</white>."
+  lore-worth: "<#90a4ae>Vale <white>%amount%"
+  lore-hint: "<#ffca28>Clic derecho para depositar"
+
+menu:
+  economy-title: "Economía"
+  coin-title: "La moneda"
+  drops-title: "Probabilidades"
+  currencies-title: "Monedas"
+  back: "<#ffca28>Volver"
+  click-to-edit: "<#ffca28>> Clic para editar"
+  click-to-toggle: "<#ffca28>> Clic para cambiar"
+  on: "SÍ"
+  off: "NO"

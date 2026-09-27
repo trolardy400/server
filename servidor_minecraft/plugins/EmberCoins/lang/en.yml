@@ -1,0 +1,71 @@
+# ============================================================
+#  Ember Coins — English
+# ============================================================
+#
+# Copy this file to lang/<code>.yml, translate the values, and set
+# language: <code> in config.yml.
+#
+# Formatting is MiniMessage, so you control colour and emphasis as well as
+# wording. <white>, <gray>, <#ff8f00> and <bold> all work.
+#
+# %placeholders% are replaced by the plugin. Keep them; move them wherever
+# the sentence needs them in your language.
+#
+# You do NOT have to translate everything. Any key you leave out falls back
+# to English on its own, so a partial translation is still useful.
+
+general:
+  no-permission: "<#ef5350>You cannot do that."
+  player-only: "<#ef5350>Only a player can do that."
+  reloaded: "<#66bb6a>Reloaded."
+  not-a-number: "<#ef5350><white>%input%</white> is not a number."
+  not-an-amount: "<#ef5350><white>%input%</white> is not an amount."
+  no-account: "<#ef5350>No account for <white>%player%</white>."
+  no-account-hint: "<#90a4ae>They must have joined at least once."
+  no-currency: "<#ef5350>No currency called <white>%currency%</white>."
+
+balance:
+  header: "<#ffca28>%player% <#90a4ae>holds:"
+  line: "  <#90a4ae>- <white>%amount%"
+  usage: "Usage: /balance <player>"
+
+pay:
+  usage: "<#90a4ae>/pay &lt;player&gt; &lt;amount&gt; [currency]"
+  self: "<#ef5350>You cannot pay yourself."
+  not-payable: "<#ef5350>%currency% cannot be transferred."
+  insufficient: "<#ef5350>You do not have %amount%."
+  sent: "<#66bb6a>Sent <white>%amount%</white> to <white>%player%</white>."
+  received: "<#66bb6a>%player% sent you <white>%amount%</white>."
+
+baltop:
+  empty: "<#90a4ae>Nobody has any %currency% yet."
+  header: "<#ffca28>Richest in %currency%:"
+  line: "  <#90a4ae>%place%. <white>%player% <#90a4ae>- <white>%amount%"
+
+eco:
+  usage: "<#90a4ae>/eco &lt;give|take|set&gt; &lt;player&gt; &lt;amount&gt; [currency]"
+  not-enough-to-take: "<#ef5350>They do not have that much; nothing was taken."
+  result: "<#66bb6a>%player% now has <white>%amount%</white>."
+
+coin:
+  disabled: "<#ef5350>Physical coins are turned off on this server."
+  withdraw-usage: "<#90a4ae>/coins withdraw &lt;amount&gt; [currency]"
+  no-room: "<#ef5350>You have no room for the coin."
+  withdrawn: "<#66bb6a>Withdrew <white>%amount%</white>."
+  deposited: "<#66bb6a>Deposited <white>%amount%</white>."
+  picked-up: "<#ffca28>+ %amount%"
+  drop-usage: "<#90a4ae>/coins drop &lt;amount&gt; [currency]"
+  dropped: "<#90a4ae>Dropped a coin worth <white>%amount%</white>."
+  lore-worth: "<#90a4ae>Worth <white>%amount%"
+  lore-hint: "<#ffca28>Right-click to deposit"
+
+menu:
+  economy-title: "Economy"
+  coin-title: "The coin"
+  drops-title: "Drop rates"
+  currencies-title: "Currencies"
+  back: "<#ffca28>Back"
+  click-to-edit: "<#ffca28>> Click to edit"
+  click-to-toggle: "<#ffca28>> Click to toggle"
+  on: "ON"
+  off: "OFF"

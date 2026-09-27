@@ -1,0 +1,13 @@
+#
+# Documentation: https://docs.groupez.dev/zmenu/getting-started
+# Online editor: https://minecraft-inventory-builder.com/
+#
+# Get 23.5% off at MineStrator with: https://cashback.groupez.dev/
+
+name: default-actions
+actions:
+  - type: sound
+    sound: ENTITY_VILLAGER_YES
+deny-actions:
+  - type: sound
+    sound: ENTITY_VILLAGER_NO

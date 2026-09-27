@@ -1,0 +1,59 @@
+# Ember Coins — Deutsch
+# Übersetzt vom Entwickler. Verbesserungen sind willkommen:
+# https://discord.gg/survivalnetwork
+
+general:
+  no-permission: "<#ef5350>Das darfst du nicht."
+  player-only: "<#ef5350>Das kann nur ein Spieler tun."
+  reloaded: "<#66bb6a>Neu geladen."
+  not-a-number: "<#ef5350><white>%input%</white> ist keine Zahl."
+  not-an-amount: "<#ef5350><white>%input%</white> ist kein Betrag."
+  no-account: "<#ef5350>Kein Konto für <white>%player%</white>."
+  no-account-hint: "<#90a4ae>Der Spieler muss mindestens einmal beigetreten sein."
+  no-currency: "<#ef5350>Keine Währung namens <white>%currency%</white>."
+
+balance:
+  header: "<#ffca28>%player% <#90a4ae>besitzt:"
+  line: "  <#90a4ae>- <white>%amount%"
+  usage: "Verwendung: /balance <Spieler>"
+
+pay:
+  usage: "<#90a4ae>/pay &lt;Spieler&gt; &lt;Betrag&gt; [Währung]"
+  self: "<#ef5350>Du kannst dir nicht selbst Geld senden."
+  not-payable: "<#ef5350>%currency% kann nicht übertragen werden."
+  insufficient: "<#ef5350>Du hast keine %amount%."
+  sent: "<#66bb6a><white>%amount%</white> an <white>%player%</white> gesendet."
+  received: "<#66bb6a>%player% hat dir <white>%amount%</white> gesendet."
+
+baltop:
+  empty: "<#90a4ae>Noch niemand besitzt %currency%."
+  header: "<#ffca28>Reichste Spieler in %currency%:"
+  line: "  <#90a4ae>%place%. <white>%player% <#90a4ae>- <white>%amount%"
+
+eco:
+  usage: "<#90a4ae>/eco &lt;give|take|set&gt; &lt;Spieler&gt; &lt;Betrag&gt; [Währung]"
+  not-enough-to-take: "<#ef5350>So viel besitzt der Spieler nicht. Es wurde nichts abgezogen."
+  result: "<#66bb6a>%player% besitzt jetzt <white>%amount%</white>."
+
+coin:
+  disabled: "<#ef5350>Physische Münzen sind auf diesem Server deaktiviert."
+  withdraw-usage: "<#90a4ae>/coins withdraw &lt;Betrag&gt; [Währung]"
+  no-room: "<#ef5350>Du hast keinen Platz für die Münze."
+  withdrawn: "<#66bb6a><white>%amount%</white> abgehoben."
+  deposited: "<#66bb6a><white>%amount%</white> eingezahlt."
+  picked-up: "<#ffca28>+ %amount%"
+  drop-usage: "<#90a4ae>/coins drop &lt;Betrag&gt; [Währung]"
+  dropped: "<#90a4ae>Eine Münze im Wert von <white>%amount%</white> fallen gelassen."
+  lore-worth: "<#90a4ae>Wert <white>%amount%"
+  lore-hint: "<#ffca28>Rechtsklick zum Einzahlen"
+
+menu:
+  economy-title: "Wirtschaft"
+  coin-title: "Die Münze"
+  drops-title: "Drop-Chancen"
+  currencies-title: "Währungen"
+  back: "<#ffca28>Zurück"
+  click-to-edit: "<#ffca28>> Klicken zum Bearbeiten"
+  click-to-toggle: "<#ffca28>> Klicken zum Umschalten"
+  on: "AN"
+  off: "AUS"

@@ -1,0 +1,59 @@
+# Ember Coins — Français
+# Traduit par le développeur. Les corrections sont les bienvenues :
+# https://discord.gg/survivalnetwork
+
+general:
+  no-permission: "<#ef5350>Tu ne peux pas faire ça."
+  player-only: "<#ef5350>Seul un joueur peut faire ça."
+  reloaded: "<#66bb6a>Rechargé."
+  not-a-number: "<#ef5350><white>%input%</white> n'est pas un nombre."
+  not-an-amount: "<#ef5350><white>%input%</white> n'est pas un montant."
+  no-account: "<#ef5350>Aucun compte pour <white>%player%</white>."
+  no-account-hint: "<#90a4ae>Il doit s'être connecté au moins une fois."
+  no-currency: "<#ef5350>Aucune monnaie nommée <white>%currency%</white>."
+
+balance:
+  header: "<#ffca28>%player% <#90a4ae>possède :"
+  line: "  <#90a4ae>- <white>%amount%"
+  usage: "Utilisation : /balance <joueur>"
+
+pay:
+  usage: "<#90a4ae>/pay &lt;joueur&gt; &lt;montant&gt; [monnaie]"
+  self: "<#ef5350>Tu ne peux pas te payer toi-même."
+  not-payable: "<#ef5350>%currency% ne peut pas être transféré."
+  insufficient: "<#ef5350>Tu n'as pas %amount%."
+  sent: "<#66bb6a><white>%amount%</white> envoyé à <white>%player%</white>."
+  received: "<#66bb6a>%player% t'a envoyé <white>%amount%</white>."
+
+baltop:
+  empty: "<#90a4ae>Personne ne possède encore de %currency%."
+  header: "<#ffca28>Les plus riches en %currency% :"
+  line: "  <#90a4ae>%place%. <white>%player% <#90a4ae>- <white>%amount%"
+
+eco:
+  usage: "<#90a4ae>/eco &lt;give|take|set&gt; &lt;joueur&gt; &lt;montant&gt; [monnaie]"
+  not-enough-to-take: "<#ef5350>Il n'en a pas autant. Rien n'a été retiré."
+  result: "<#66bb6a>%player% possède maintenant <white>%amount%</white>."
+
+coin:
+  disabled: "<#ef5350>Les pièces physiques sont désactivées sur ce serveur."
+  withdraw-usage: "<#90a4ae>/coins withdraw &lt;montant&gt; [monnaie]"
+  no-room: "<#ef5350>Tu n'as pas de place pour la pièce."
+  withdrawn: "<#66bb6a><white>%amount%</white> retiré."
+  deposited: "<#66bb6a><white>%amount%</white> déposé."
+  picked-up: "<#ffca28>+ %amount%"
+  drop-usage: "<#90a4ae>/coins drop &lt;montant&gt; [monnaie]"
+  dropped: "<#90a4ae>Pièce lâchée d'une valeur de <white>%amount%</white>."
+  lore-worth: "<#90a4ae>Vaut <white>%amount%"
+  lore-hint: "<#ffca28>Clic droit pour déposer"
+
+menu:
+  economy-title: "Économie"
+  coin-title: "La pièce"
+  drops-title: "Taux de drop"
+  currencies-title: "Monnaies"
+  back: "<#ffca28>Retour"
+  click-to-edit: "<#ffca28>> Cliquer pour modifier"
+  click-to-toggle: "<#ffca28>> Cliquer pour changer"
+  on: "OUI"
+  off: "NON"

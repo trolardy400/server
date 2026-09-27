@@ -1,0 +1,203 @@
+# ============================================================
+#  Ember Coins
+# ============================================================
+#
+# A multi-currency economy. The currency marked `primary` is the one
+# registered with Vault, which is what every other plugin on the server will
+# spend — Ember Shop included. The rest are yours to use through /pay, /eco,
+# placeholders and any plugin that asks for them by name.
+#
+# Vault has no concept of more than one currency, so only the primary one is
+# exposed to it. That is deliberate: pretending otherwise produces plugins
+# that quietly move the wrong money.
+
+currencies:
+
+  coins:
+    name: "Coin"
+    plural: "Coins"
+    # Shown for this currency in the menus.
+    icon: GOLD_INGOT
+    # Shown before the number. Leave blank to use the name instead,
+    # e.g. "1,240 Coins".
+    symbol: ""
+    decimals: 2
+    starting-balance: 500
+    primary: true
+    payable: true
+
+  gems:
+    name: "Gem"
+    plural: "Gems"
+    icon: EMERALD
+    symbol: ""
+    decimals: 0
+    starting-balance: 0
+    primary: false
+    payable: true
+
+  tokens:
+    name: "Token"
+    plural: "Tokens"
+    icon: AMETHYST_SHARD
+    symbol: ""
+    decimals: 0
+    starting-balance: 0
+    primary: false
+    # Earned and spent, never traded. Some currencies exist to reward playing,
+    # and letting them be handed around defeats the point.
+    payable: false
+
+# The language file to use, from the lang/ folder.
+#
+# lang/en.yml ships with the plugin and is refreshed on every start, so new
+# messages appear as the plugin gains them. To translate: copy it to
+# lang/de.yml (or any code), translate the values, and set language: de here.
+#
+# Anything you leave untranslated falls back to English on its own, so a
+# partial translation is still perfectly usable.
+language: en
+
+# Register Ember Coins as THE server economy through Vault.
+#
+# On by default. When on, every plugin that asks Vault for money gets Ember
+# Coins — Ember Shop, jobs plugins, casinos, anything.
+#
+# Turn it off if the server already has an economy it wants to keep and you
+# only want Ember Coins for its extra currencies. Two plugins both claiming to
+# be the Vault economy is how balances start disagreeing depending on which
+# plugin happened to ask.
+#
+# Has no effect on Folia, where Vault does not run at all — Ember Shop finds
+# Ember Coins directly there either way.
+#
+# Toggleable in game: /coins gui -> Server economy
+register-with-vault: true
+
+# How often balances are written to disk, in minutes.
+#
+# Held in memory and saved on a timer rather than on every change, because a
+# busy server changes balances thousands of times a minute. A shutdown always
+# forces a save, so this is the window you would lose to a hard crash.
+save-interval-minutes: 5
+
+# ------------------------------------------------------------
+#  Physical coins
+# ------------------------------------------------------------
+#
+# Money as a thing in the world: an item that can be dropped, picked up off
+# the floor, stored in a chest and handed to another player.
+#
+# The value is stamped onto each coin when it is minted, not looked up when it
+# is spent. That means a coin sitting in a chest since before you edited this
+# config is still worth what it said it was worth — editing a number here
+# never silently revalues everyone's savings.
+coin:
+  enabled: true
+
+  # What the coin looks like. A sunflower reads as a gold disc at inventory
+  # size, which is why it is the default.
+  material: SUNFLOWER
+
+  # Optional: use an item from another plugin instead of the material above.
+  # Any reference Ember understands works here:
+  #   itemsadder:mypack:gold_coin
+  #   oraxen:coin      nexo:coin      mmoitems:MATERIAL:COIN
+  #   hdb:1234         (a HeadDatabase head)
+  # Leave blank to use `material`.
+  reference: ""
+
+  # %amount% is replaced with the formatted value.
+  name: "<#ffca28><bold>%amount%"
+  lore: []
+
+  # Floating text above a dropped coin, so its value is readable from across
+  # the room instead of only on hover.
+  floating-text: true
+  floating-format: "<#ffca28><bold>%amount%"
+
+  # Custom model data, for a resource pack that has its own coin model.
+  model-data: 0
+  glow: true
+
+  # Optional ModelEngine model shown on the DROPPED coin — a spinning coin,
+  # a floating gem, whatever you have built. Needs ModelEngine installed;
+  # without it the coin simply drops as its item, which still works.
+  model-engine: ""
+
+# ------------------------------------------------------------
+#  Coin drops
+# ------------------------------------------------------------
+#
+# Coins fall from mobs a player killed. Deliberately only from player kills:
+# without that, a mob farm that suffocates its own stock mints money nobody
+# fought for, all night, while the server is empty.
+#
+# A coin that nobody picks up is money that was never created — the balance is
+# credited on pickup, not on death.
+drops:
+  enabled: true
+  currency: coins
+
+  # Hostile mobs drop a coin every time. Decided by whether the mob is hostile,
+  # not by a list of names, so anything added by Mojang or by a mob plugin is
+  # covered without editing this file.
+  hostile-chance: 1.0
+
+  # Everything else: animals, villagers, golems. Lower on purpose, because a
+  # cow pen should not out-earn a mob grinder.
+  chance: 0.25
+
+  # What one coin is worth.
+  min: 1
+  max: 8
+
+  # Per-mob overrides. Leaving `chance` out means the mob keeps the default
+  # for its kind — these exist to tune what a mob is WORTH, not how often it
+  # pays, which is what you usually want.
+  mobs:
+    ZOMBIE:
+      min: 2
+      max: 10
+    SKELETON:
+      min: 2
+      max: 10
+    CREEPER:
+      min: 4
+      max: 14
+    ENDERMAN:
+      min: 10
+      max: 30
+    BLAZE:
+      min: 12
+      max: 35
+    WITHER_SKELETON:
+      min: 20
+      max: 60
+    PIGLIN_BRUTE:
+      min: 25
+      max: 70
+    WARDEN:
+      min: 500
+      max: 1200
+    WITHER:
+      min: 2000
+      max: 5000
+    ENDER_DRAGON:
+      min: 5000
+      max: 12000
+
+# ---------------------------------------------------------------------------
+#  Anonymous statistics
+#
+#  Sends the same handful of numbers every bStats plugin sends: server software
+#  and version, Java version, player count, and a few plugin settings. Nothing
+#  identifies your server, your players, or anything you have configured.
+#
+#  It is genuinely useful to us: it is how we know which Minecraft versions are
+#  really in use rather than guessing, and what to keep supporting.
+#
+#  Set this to false to opt out. There is also a global switch in
+#  plugins/bStats/config.yml that silences every plugin at once.
+# ---------------------------------------------------------------------------
+metrics: true

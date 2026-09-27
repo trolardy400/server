@@ -1,0 +1,59 @@
+# Ember Coins — 简体中文
+# 由开发者翻译，欢迎提出修改建议：
+# https://discord.gg/survivalnetwork
+
+general:
+  no-permission: "<#ef5350>你没有权限执行此操作。"
+  player-only: "<#ef5350>只有玩家才能执行此操作。"
+  reloaded: "<#66bb6a>已重新加载。"
+  not-a-number: "<#ef5350><white>%input%</white> 不是一个数字。"
+  not-an-amount: "<#ef5350><white>%input%</white> 不是一个有效金额。"
+  no-account: "<#ef5350>找不到 <white>%player%</white> 的账户。"
+  no-account-hint: "<#90a4ae>该玩家必须至少进入过服务器一次。"
+  no-currency: "<#ef5350>找不到名为 <white>%currency%</white> 的货币。"
+
+balance:
+  header: "<#ffca28>%player% <#90a4ae>持有："
+  line: "  <#90a4ae>- <white>%amount%"
+  usage: "用法：/balance <玩家>"
+
+pay:
+  usage: "<#90a4ae>/pay &lt;玩家&gt; &lt;金额&gt; [货币]"
+  self: "<#ef5350>你不能向自己转账。"
+  not-payable: "<#ef5350>%currency% 无法转账。"
+  insufficient: "<#ef5350>你没有 %amount%。"
+  sent: "<#66bb6a>已向 <white>%player%</white> 发送 <white>%amount%</white>。"
+  received: "<#66bb6a>%player% 向你发送了 <white>%amount%</white>。"
+
+baltop:
+  empty: "<#90a4ae>目前还没有人拥有 %currency%。"
+  header: "<#ffca28>%currency% 财富排行："
+  line: "  <#90a4ae>%place%. <white>%player% <#90a4ae>- <white>%amount%"
+
+eco:
+  usage: "<#90a4ae>/eco &lt;give|take|set&gt; &lt;玩家&gt; &lt;金额&gt; [货币]"
+  not-enough-to-take: "<#ef5350>该玩家余额不足，未扣除任何金额。"
+  result: "<#66bb6a>%player% 现在拥有 <white>%amount%</white>。"
+
+coin:
+  disabled: "<#ef5350>本服务器未启用实体货币。"
+  withdraw-usage: "<#90a4ae>/coins withdraw &lt;金额&gt; [货币]"
+  no-room: "<#ef5350>你的背包没有空间存放硬币。"
+  withdrawn: "<#66bb6a>已取出 <white>%amount%</white>。"
+  deposited: "<#66bb6a>已存入 <white>%amount%</white>。"
+  picked-up: "<#ffca28>+ %amount%"
+  drop-usage: "<#90a4ae>/coins drop &lt;金额&gt; [货币]"
+  dropped: "<#90a4ae>已丢出价值 <white>%amount%</white> 的硬币。"
+  lore-worth: "<#90a4ae>价值 <white>%amount%"
+  lore-hint: "<#ffca28>右键点击存入"
+
+menu:
+  economy-title: "经济"
+  coin-title: "硬币"
+  drops-title: "掉落几率"
+  currencies-title: "货币"
+  back: "<#ffca28>返回"
+  click-to-edit: "<#ffca28>> 点击编辑"
+  click-to-toggle: "<#ffca28>> 点击切换"
+  on: "开"
+  off: "关"

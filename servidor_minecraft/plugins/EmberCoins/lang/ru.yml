@@ -1,0 +1,59 @@
+# Ember Coins — Русский
+# Переведено разработчиком. Исправления приветствуются:
+# https://discord.gg/survivalnetwork
+
+general:
+  no-permission: "<#ef5350>У вас нет прав на это."
+  player-only: "<#ef5350>Это может сделать только игрок."
+  reloaded: "<#66bb6a>Перезагружено."
+  not-a-number: "<#ef5350><white>%input%</white> не является числом."
+  not-an-amount: "<#ef5350><white>%input%</white> не является суммой."
+  no-account: "<#ef5350>Нет счёта для игрока <white>%player%</white>."
+  no-account-hint: "<#90a4ae>Игрок должен был зайти хотя бы один раз."
+  no-currency: "<#ef5350>Валюта <white>%currency%</white> не найдена."
+
+balance:
+  header: "<#ffca28>%player% <#90a4ae>имеет:"
+  line: "  <#90a4ae>- <white>%amount%"
+  usage: "Использование: /balance <игрок>"
+
+pay:
+  usage: "<#90a4ae>/pay &lt;игрок&gt; &lt;сумма&gt; [валюта]"
+  self: "<#ef5350>Нельзя перевести деньги самому себе."
+  not-payable: "<#ef5350>%currency% нельзя передавать."
+  insufficient: "<#ef5350>У вас нет %amount%."
+  sent: "<#66bb6a>Отправлено <white>%amount%</white> игроку <white>%player%</white>."
+  received: "<#66bb6a>%player% отправил вам <white>%amount%</white>."
+
+baltop:
+  empty: "<#90a4ae>Пока ни у кого нет %currency%."
+  header: "<#ffca28>Богатейшие по %currency%:"
+  line: "  <#90a4ae>%place%. <white>%player% <#90a4ae>- <white>%amount%"
+
+eco:
+  usage: "<#90a4ae>/eco &lt;give|take|set&gt; &lt;игрок&gt; &lt;сумма&gt; [валюта]"
+  not-enough-to-take: "<#ef5350>У игрока недостаточно средств. Ничего не списано."
+  result: "<#66bb6a>Теперь у %player% <white>%amount%</white>."
+
+coin:
+  disabled: "<#ef5350>Физические монеты отключены на этом сервере."
+  withdraw-usage: "<#90a4ae>/coins withdraw &lt;сумма&gt; [валюта]"
+  no-room: "<#ef5350>В инвентаре нет места для монеты."
+  withdrawn: "<#66bb6a>Снято <white>%amount%</white>."
+  deposited: "<#66bb6a>Зачислено <white>%amount%</white>."
+  picked-up: "<#ffca28>+ %amount%"
+  drop-usage: "<#90a4ae>/coins drop &lt;сумма&gt; [валюта]"
+  dropped: "<#90a4ae>Выброшена монета стоимостью <white>%amount%</white>."
+  lore-worth: "<#90a4ae>Стоимость <white>%amount%"
+  lore-hint: "<#ffca28>ПКМ, чтобы зачислить"
+
+menu:
+  economy-title: "Экономика"
+  coin-title: "Монета"
+  drops-title: "Шансы выпадения"
+  currencies-title: "Валюты"
+  back: "<#ffca28>Назад"
+  click-to-edit: "<#ffca28>> Нажмите, чтобы изменить"
+  click-to-toggle: "<#ffca28>> Нажмите, чтобы переключить"
+  on: "ВКЛ"
+  off: "ВЫКЛ"

@@ -1,0 +1,19 @@
+#
+# Documentation: https://docs.groupez.dev/zmenu/getting-started
+# Online editor: https://minecraft-inventory-builder.com/
+#
+# Get 23.5% off at MineStrator with: https://cashback.groupez.dev/
+
+#<item-id>:
+#  name: ... # Same format use for items in menu
+#  mechanics:
+#    <mechanic-id>:
+#      ... # Depending on the mechanic
+
+
+first-item:
+  name: "&aFirst Item"
+  lore:
+    - "&7This is the first item"
+    - "&7in the default items file."
+  

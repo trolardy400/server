@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756569402343
+  login: 1756568825242
+money: '100000000'
+last-account-name: .Marvin_1239377
+logoutlocation:
+  world: d3b534a6-3de2-4a4f-84be-5b1239a732af
+  world-name: world
+  x: 4396.5
+  y: 73.0
+  z: -3551.5
+  yaw: -16.296600341796875
+  pitch: 13.7459716796875
